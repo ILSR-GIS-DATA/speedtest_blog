@@ -1,0 +1,25 @@
+---
+title: "About"
+image: ParkerC.png
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/christine-parker-phd-41b1a039/
+    - icon: github
+      text: Github
+      href: https://github.com/ILSR-GIS-DATA
+---
+
+## About me
+
+Christine Parker is the Senior GIS Analyst at the Institute for Local Self-Reliance (ILSR). When not mucking about in broadband data, Christine enjoys going for walks and spending time outside with her family.
+
+## About my work
+
+Within ILSR, I work on the [Community Broadband Networks (CBN)](https://communitynetworks.org) initiative with a really great team. We excel in educating people, advocating for change, and conducting research with the aim of increasing the availability and affordability of Internet access. I see my role in the team as something like a translator. I take a bunch of data that likely means nothing to most folks, and wrangle it into the form of a few simple numbers or a graph or a map that more clearly communicates the message we're trying to share.
+
+In addition to CBN, I'm also a member of the [National Broadband Mapping Coalition](https://broadbandmappingcoalition.org) (NBMC). Formerly sponsored by the Marconi Society, the NBMC represents a tremendous network of folks from all parts of the telecom industry that are interested in the role that maps play. In an effort to connect more directly with folks that work with broadband data regularly, I also host a Discord server for this group.
+
+I regularly meet with a smaller crew of broadband-data evangelists, otherwise known as Broadband Commons. We've made a start at putting our collective understanding of broadband data and policy in this book. You can learn more about the group [here](https://bbcommons.org) and check out tools we've created [here](https://github.com/bbcommons).

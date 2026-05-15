@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: "1c8bf8de-2202-4c3b-81d7-1f50cced53f5"
+      url: "https://christinethemaplady.quarto.pub/the-download-on-data"
