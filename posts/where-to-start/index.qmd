@@ -1,5 +1,5 @@
 ---
-title: "Where to Start?"
+title: "Where to start?"
 author: "Christine Parker"
 date: "2025-05-16"
 categories: [speed test, datasets, variables]
