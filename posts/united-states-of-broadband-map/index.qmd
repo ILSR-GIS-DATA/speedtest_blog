@@ -1,0 +1,36 @@
+---
+title: "The United State(s) of Broadband Map"
+author: "Christine Parker"
+date: "2026-05-22"
+categories: [static map, interactive, mapbox, state map]
+image: "mapofmaps.png"
+draft: true
+---
+
+## Pattern
+
+::::: grid
+::: g-col-6
+Interactive map of variation by state.
+:::
+
+::: g-col-6
+[![](mapofmaps.png){fig-alt="An interactive map of the USA that indicates the type of data being used to create state-level broadband maps. Darker greens indicate more detailed data was used." fig-align="right"}](https://apps.communitynets.org/usbroadbandmap/)
+:::
+:::::
+
+## Request
+
+This map was [developed as a resource](https://communitynetworks.org/content/united-states-broadband) for me (and others) to keep track of the different approaches being taken by states to develop state-level broadband maps. When this map was created, states were developing these maps in advance of the FCC's initial release of the [Fabric](https://help.bdc.fcc.gov/hc/en-us/articles/5375384069659-What-is-the-Location-Fabric)-driven [National Broadband Map](https://broadbandmap.fcc.gov/home?version=dec2025) and to prepare for participation in the Broadband Equity Access and Deployment (BEAD) Program.
+
+## Data Used
+
+Data descriptions/sources described in state broadband maps.
+
+## Method
+
+Each state's primary data source for their respective broadband map recorded, and those categories summarized into the 5 groups included in the map legend. A brief description of the map, data vintage, and map url are included in the pop-up which fills in when the user clicks on a state.
+
+## Finding
+
+- did better data lead to any benefits during NTIA process? faster approval?
