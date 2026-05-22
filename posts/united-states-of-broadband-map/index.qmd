@@ -32,7 +32,7 @@ Each state's primary data source for their respective broadband map recorded, an
 
 ## Finding
 
-It appears that among states that used location-level data to develop their pre-BEAD broadband maps, the challenge period took 30 days. There was variation in challenge period lengths among states that built maps around speed test campaigns, privately shared ISP data, or Form 477 data. This doesn't indicate whether those challenge processes were more or less successful, but suggests that perhaps the preparation to work with more granular data may have been helpful.
+It appears that among states that used location-level data (map rank 1) to develop their pre-BEAD broadband maps, the challenge period took 30 days. There was variation in challenge period lengths among states that built maps around speed test campaigns (2), privately shared ISP data (4), or Form 477 data (5). This doesn't indicate whether those challenge processes were more or less successful, but suggests that perhaps the preparation to work with more granular data may have been helpful.
 
 ```{r graphic, echo=FALSE}
 #| message: false
