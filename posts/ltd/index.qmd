@@ -4,8 +4,6 @@ author: "Christine Parker"
 date: "2026-05-29"
 categories: [static map, RDOF, LTD]
 image: "rdof_jun15.png"
- html:
-    footnotes-hover: true
 ---
 
 ## Pattern
