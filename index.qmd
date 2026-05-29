@@ -15,4 +15,4 @@ title-block-banner: true
 
 [**speed-test-data**](speed-test-data-series.html) This series of posts are focused on learning about speed tests and the data they create.
 
-#All Posts
+# All Posts
