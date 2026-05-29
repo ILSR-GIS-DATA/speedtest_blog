@@ -2,10 +2,15 @@ project:
   type: website
 
 website:
-  title: "The Download on Data"
+  title: "Download on Data"
   navbar:
-    right:
+    left:
+      - text: "Home"
+        href: index.qmd
       - about.qmd
+      - icon: play-btn
+        href: talks.qmd
+        text: "Speaking"
       - icon: github
         href: https://github.com/
 format:

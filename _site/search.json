@@ -67,14 +67,14 @@
     "href": "about.html#about-my-work",
     "title": "About",
     "section": "About my work",
-    "text": "About my work\nWithin ILSR, I work on the Community Broadband Networks (CBN) initiative with a really great team. We excel in educating people, advocating for change, and conducting research with the aim of increasing the availability and affordability of Internet access. I see my role in the team as something like a translator. I take a bunch of data that likely means nothing to most folks, and wrangle it into the form of a few simple numbers or a graph or a map that more clearly communicates the message we’re trying to share.\nIn addition to CBN, I’m also a member of the National Broadband Mapping Coalition (NBMC). Formerly sponsored by the Marconi Society, the NBMC represents a tremendous network of folks from all parts of the telecom industry that are interested in the role that maps play. In an effort to connect more directly with folks that work with broadband data regularly, I also host a Discord server for this group.\nI regularly meet with a smaller crew of broadband-data evangelists, otherwise known as Broadband Commons. We’ve made a start at putting our collective understanding of broadband data and policy in this book. You can learn more about the group here and check out tools we’ve created here."
+    "text": "About my work\nWithin ILSR, I work on the Community Broadband Networks (CBN) initiative with a really great team. We excel in educating people, advocating for change, and conducting research with the aim of increasing the availability and affordability of Internet access. I see my role in the team as something like a translator. I take a bunch of data that likely means nothing to most folks, and wrangle it into the form of a few simple numbers or a graph or a map that more clearly communicates the message we’re trying to share.\nI am a co-founder of Broadband Commons (bbcommons.org), a group of researchers and practitioners developing common, open resources for working with US federal broadband data. We also continue to work on a how-to book for working with federal broadband datasets. You can learn more about the group here and check out tools we’ve created here."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "The Download on Data",
     "section": "",
-    "text": "Which states have preemption laws that limit community networks?\n\n\n\nstatic map\n\npreemption\n\ncommunity networks\n\n\n\n\n\n\n\n\n\nMay 14, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWhere to Start?\n\n\n\nspeed test\n\ndatasets\n\nvariables\n\n\n\n\n\n\n\n\n\nMay 16, 2025\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is a speed test?\n\n\n\nnews\n\nspeed test\n\ndata\n\n\n\n\n\n\n\n\n\nApr 14, 2025\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 11, 2025\n\n\nChristine Parker\n\n\n\n\n\nNo matching items"
+    "text": "Series\n\nspeed-test-data\nThis series of posts are focused on learning about speed tests and the data they create.\n\n\n\nAll Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBad Actors in Broadband\n\n\n\nstatic map\n\nRDOF\n\nLTD\n\n\n\n\n\n\n\n\n\nMay 29, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe United State(s) of Broadband Map\n\n\n\nstatic map\n\ninteractive\n\nmapbox\n\nstate map\n\n\n\n\n\n\n\n\n\nMay 22, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWhich states have preemption laws that limit community networks?\n\n\n\nstatic map\n\npreemption\n\ncommunity networks\n\n\n\n\n\n\n\n\n\nMay 14, 2026\n\n\nChristine Parker\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/what-is-a-speed-test/index.html",
@@ -130,41 +130,244 @@
     "href": "posts/preemption-states/index.html",
     "title": "Which states have preemption laws that limit community networks?",
     "section": "",
-    "text": "The spatial extent of of some legislation."
+    "text": "States with preemption laws limiting community networks."
   },
   {
     "objectID": "posts/preemption-states/index.html#pattern",
     "href": "posts/preemption-states/index.html#pattern",
     "title": "Which states have preemption laws that limit community networks?",
-    "section": "",
-    "text": "The spatial extent of of some legislation."
+    "section": "Pattern",
+    "text": "Pattern\nMap showing the spatial extent of legislation."
   },
   {
     "objectID": "posts/preemption-states/index.html#request",
     "href": "posts/preemption-states/index.html#request",
     "title": "Which states have preemption laws that limit community networks?",
     "section": "Request",
-    "text": "Request\n\n\nA map showing the states that still have preemption laws that serve as barriers to community network development/operations."
+    "text": "Request\nA static map showing the states that still have preemption laws that serve as barriers to community network development/operations."
   },
   {
     "objectID": "posts/preemption-states/index.html#data-used",
     "href": "posts/preemption-states/index.html#data-used",
     "title": "Which states have preemption laws that limit community networks?",
     "section": "Data Used",
-    "text": "Data Used\n\n\nILSR’s list of preemption states"
+    "text": "Data Used\nILSR’s list of preemption states"
   },
   {
     "objectID": "posts/preemption-states/index.html#method",
     "href": "posts/preemption-states/index.html#method",
     "title": "Which states have preemption laws that limit community networks?",
     "section": "Method",
-    "text": "Method\n\n\nSymbolized the states with existing preemption laws, and added drop-shadow to add emphasis."
+    "text": "Method\nSymbolized the states with existing preemption laws, and added drop-shadow to add emphasis."
   },
   {
     "objectID": "posts/preemption-states/index.html#finding",
     "href": "posts/preemption-states/index.html#finding",
     "title": "Which states have preemption laws that limit community networks?",
     "section": "Finding",
-    "text": "Finding\n\n\nAs of 1 Nov 2024, 16 states still had preemption laws in place that either strictly prohibit or present major barriers to building and operating community-owned, locally controlled broadband networks."
+    "text": "Finding\nAs of 1 Nov 2024, 16 states still had preemption laws in place that either strictly prohibit or present major barriers to building and operating community-owned, locally controlled broadband networks."
+  },
+  {
+    "objectID": "series-speed-test/where-to-start/index.html",
+    "href": "series-speed-test/where-to-start/index.html",
+    "title": "Where to start?",
+    "section": "",
+    "text": "Lacking any sort of clear pathway to learn about speed test data and their analysis, I decided to start by messing around with a dataset that is already packaged up for use. Ookla Open Data are hosted by ESRI in tile format. The source data used to generate these tiles can be accessed directly via Ookla’s GitHub page.\n\n\n\n\n\n\n\nOokla Fixed Tiles derived from the Ookla Speedtest for Global Broadband Performance are hosted by ESRI.\n\n\nAdmittedly, I didn’t find this dataset to be the easiest to interpret because of the lack of granularity, but I think it’s a good starting point. With the data in a mapped format, I’m able to click around and explore the data having done nothing more than add the layer to a map. Once zoomed in, I’m able to get a clearer picture of where tests are occurring. Although, understanding connection performance is less clear to me with this dataset.\n\n\n\nThe Broadband Index is a metric calculated based on points allocated from both the upload and download speed values. Higher index values indicate higher speeds."
+  },
+  {
+    "objectID": "series-speed-test/where-to-start/index.html#what-is-easy-to-access-and-free-to-use",
+    "href": "series-speed-test/where-to-start/index.html#what-is-easy-to-access-and-free-to-use",
+    "title": "Where to start?",
+    "section": "",
+    "text": "Lacking any sort of clear pathway to learn about speed test data and their analysis, I decided to start by messing around with a dataset that is already packaged up for use. Ookla Open Data are hosted by ESRI in tile format. The source data used to generate these tiles can be accessed directly via Ookla’s GitHub page.\n\n\n\n\n\n\n\nOokla Fixed Tiles derived from the Ookla Speedtest for Global Broadband Performance are hosted by ESRI.\n\n\nAdmittedly, I didn’t find this dataset to be the easiest to interpret because of the lack of granularity, but I think it’s a good starting point. With the data in a mapped format, I’m able to click around and explore the data having done nothing more than add the layer to a map. Once zoomed in, I’m able to get a clearer picture of where tests are occurring. Although, understanding connection performance is less clear to me with this dataset.\n\n\n\nThe Broadband Index is a metric calculated based on points allocated from both the upload and download speed values. Higher index values indicate higher speeds."
+  },
+  {
+    "objectID": "series-speed-test/where-to-start/index.html#ookla-open-data",
+    "href": "series-speed-test/where-to-start/index.html#ookla-open-data",
+    "title": "Where to start?",
+    "section": "Ookla Open Data",
+    "text": "Ookla Open Data\nI’m a sucker for a free dataset but I want this one to be more useful. As you can see in the pop-up, you get lots of information about a given tile. However, these aggregated measures are just that - data summaries for a small geographic square. Along with test metadata (i.e., timing, location, number of tests, and number of devices), users are provided averages of download, upload, and latency.\nWith these data I can also evaluate change in performance over time. Even though the ESRI-hosted tile sets inlcude only the most recent data available for a given tile, specific year-quarter datasets are available. Instructions to access those files are found here.\nThe question of which ISP is under performing is not something you’ll be able to address using this dataset. To track down ISP-specific data related to these tests, you’d need to get a subscription with Ookla. Since a subscription to Ookla is out of my price range, I’ll be working with the NDT dataset from Measurement Lab.\nUltimately, I think this dataset is a good starting point for understanding where and when connectivity problems have occurred, but not much more than that."
+  },
+  {
+    "objectID": "series-speed-test/welcome/index.html",
+    "href": "series-speed-test/welcome/index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Welcome! This is the first post in this blog and beginning of this journey."
+  },
+  {
+    "objectID": "series-speed-test/welcome/index.html#why-am-i-blogging",
+    "href": "series-speed-test/welcome/index.html#why-am-i-blogging",
+    "title": "Welcome!",
+    "section": "Why am I blogging?",
+    "text": "Why am I blogging?\nI have a couple goals I’m hoping to achieve through this blog. The first is to expand my understanding and abilities to use R-based tools, like Quarto (check!). The second is to better understand and learn to analyze speed test data.\nOf course I could do these things without publicly sharing, but quite frankly, “learn to use speed test data” has been a work goal since I started this job. Just the notion that this will be public has already prompted me to get started."
+  },
+  {
+    "objectID": "series-speed-test/welcome/index.html#what-will-i-blog-about",
+    "href": "series-speed-test/welcome/index.html#what-will-i-blog-about",
+    "title": "Welcome!",
+    "section": "What will I blog about?",
+    "text": "What will I blog about?\nAs I get started with this blog, my plan is to initially focus on what I learn about speed test data - how it’s collected, types of tests, data structure, test & data comparisons, and some practice analyses. I can also see this as a place to dig into my understanding of the FCC’s Broadband Data Collection."
+  },
+  {
+    "objectID": "series-speed-test/welcome/index.html#when-will-i-blog",
+    "href": "series-speed-test/welcome/index.html#when-will-i-blog",
+    "title": "Welcome!",
+    "section": "When will I blog?",
+    "text": "When will I blog?\nSince this is my first venture into blogging, I’m starting with a weekly post. As time allows I may post more frequently and may also invite friends over for an occasional guest post."
+  },
+  {
+    "objectID": "posts/ltd/index.html",
+    "href": "posts/ltd/index.html",
+    "title": "Bad Actors in Broadband",
+    "section": "",
+    "text": "Map of bids won and defaulted on by a specific Internet service provider in a federal infrastructure program auction.\n\n\n\n\n\nFigure 1. Map of bids won/pending and defaulted across the United States by LTD Broadband, LLC in the Rural Digital Opportunity Fund auction."
+  },
+  {
+    "objectID": "posts/ltd/index.html#pattern",
+    "href": "posts/ltd/index.html#pattern",
+    "title": "Bad Actors in Broadband",
+    "section": "",
+    "text": "Map of bids won and defaulted on by a specific Internet service provider in a federal infrastructure program auction.\n\n\n\n\n\nFigure 1. Map of bids won/pending and defaulted across the United States by LTD Broadband, LLC in the Rural Digital Opportunity Fund auction."
+  },
+  {
+    "objectID": "posts/ltd/index.html#request",
+    "href": "posts/ltd/index.html#request",
+    "title": "Bad Actors in Broadband",
+    "section": "Request",
+    "text": "Request\n\n\nFollowing the completion of the FCC’s Rural Digital Opportunity Fund auction, there were often questions about which Internet service providers defaulted on their awarded bids. The name of one provider in particular repeatedly surfaced in emails and requests, LTD Broadband, LLC. Fig. 1 and Fig. 2 represent two separate requests for static maps of where LTD defaulted on bids.\n\n\n\n\n\nFigure 2. Bids won/pending and defaulted in Minnesota by LTD Broadband, LLC in the Rural Digital Opportunity Fund auction."
+  },
+  {
+    "objectID": "posts/ltd/index.html#data-used",
+    "href": "posts/ltd/index.html#data-used",
+    "title": "Bad Actors in Broadband",
+    "section": "Data Used",
+    "text": "Data Used\nData for these maps came from the Auction 904 page on the FCC’s website, under the ‘Results’ tab. LTD’s defaults all occurred prior to authorization1, so the ‘Pre-auth Census Blocks’ tab of the file ‘Census Blocks Covered by Auction 904 Defaults and Deduplication’ were used to determine the census blocks where the defaults occurred. The file ‘Census Blocks Covered by FCC Auction 904 Long-Form Applicants’ includes the tab ‘Census Blocks’, which was used to define the census blocks in which bids were won by LTD. The US Census Blocks National Geodatabase was used to display the focal areas in the map."
+  },
+  {
+    "objectID": "posts/ltd/index.html#method",
+    "href": "posts/ltd/index.html#method",
+    "title": "Bad Actors in Broadband",
+    "section": "Method",
+    "text": "Method\nThese two lists of census blocks (i.e., won in auction/pending authorization and defaults) were used to select the specific blocks within the US Census Blocks National Geodatabase to display in the map."
+  },
+  {
+    "objectID": "posts/ltd/index.html#finding",
+    "href": "posts/ltd/index.html#finding",
+    "title": "Bad Actors in Broadband",
+    "section": "Finding",
+    "text": "Finding\nUltimately, LTD defaulted in all 15 states where it won bids to deploy Internet access in rural areas. These areas included 528,088 locations (estimated by FCC), and over $1.3M in funds that could have gone to providers that were genuinely interested and able to get folks connected. LTD was not the only provider to default on its bids, and certainly not the worst. Space Exploration Technologies Corp. (otherwise known as Starlink) defaulted on 1.5M locations, amounting to $2.2M, across 35 states. If you’re interested, you can read more here about how this problem continues to prevent folks from getting connected."
+  },
+  {
+    "objectID": "posts/ltd/index.html#footnotes",
+    "href": "posts/ltd/index.html#footnotes",
+    "title": "Bad Actors in Broadband",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nProvider authorization was given following approval of the second application submission, which documented qualifications, funding, and infrastructure; included a letter of credit from an eligible bank; and included documentation of their certification of eligibility as telecommunications carriers in any area where they sought support.↩︎"
+  },
+  {
+    "objectID": "posts/united-states-of-broadband-map/index.html",
+    "href": "posts/united-states-of-broadband-map/index.html",
+    "title": "The United State(s) of Broadband Map",
+    "section": "",
+    "text": "Interactive map of state differences."
+  },
+  {
+    "objectID": "posts/united-states-of-broadband-map/index.html#pattern",
+    "href": "posts/united-states-of-broadband-map/index.html#pattern",
+    "title": "The United State(s) of Broadband Map",
+    "section": "",
+    "text": "Interactive map of state differences."
+  },
+  {
+    "objectID": "posts/united-states-of-broadband-map/index.html#request",
+    "href": "posts/united-states-of-broadband-map/index.html#request",
+    "title": "The United State(s) of Broadband Map",
+    "section": "Request",
+    "text": "Request\nThis map was developed as a resource for me (and others) to keep track of the different approaches being taken by states to develop state-level broadband maps. When this map was created, states were developing these maps in advance of the FCC’s initial release of the Fabric-driven National Broadband Map and to prepare for participation in the Broadband Equity Access and Deployment (BEAD) Program."
+  },
+  {
+    "objectID": "posts/united-states-of-broadband-map/index.html#data-used",
+    "href": "posts/united-states-of-broadband-map/index.html#data-used",
+    "title": "The United State(s) of Broadband Map",
+    "section": "Data Used",
+    "text": "Data Used\nData descriptions/sources described in state broadband maps. These data do not necessarily represent the status of state broadband maps when their respective challenge processes began, rather this work represents a snapshot in time."
+  },
+  {
+    "objectID": "posts/united-states-of-broadband-map/index.html#method",
+    "href": "posts/united-states-of-broadband-map/index.html#method",
+    "title": "The United State(s) of Broadband Map",
+    "section": "Method",
+    "text": "Method\nEach state’s primary data source for their respective broadband map recorded, and those categories summarized into the 5 groups shown in the map legend. A brief description of the map, data vintage, and map URL are included in the pop-up which fills in when the user clicks on a state."
+  },
+  {
+    "objectID": "posts/united-states-of-broadband-map/index.html#finding",
+    "href": "posts/united-states-of-broadband-map/index.html#finding",
+    "title": "The United State(s) of Broadband Map",
+    "section": "Finding",
+    "text": "Finding\nIt appears that among states that used location-level data (map rank 1) to develop their pre-BEAD broadband maps, the challenge period took 30 days. There was variation in challenge period lengths among states that built maps around speed test campaigns (2), privately shared ISP data (4), or Form 477 data (5). This doesn’t indicate whether those challenge processes were more or less successful, but suggests that perhaps the preparation to work with more granular data may have been helpful."
+  },
+  {
+    "objectID": "series-speed-test/what-is-a-speed-test/index.html",
+    "href": "series-speed-test/what-is-a-speed-test/index.html",
+    "title": "What is a speed test?",
+    "section": "",
+    "text": "This week I skimmed through some articles about the different types of speed tests and dove right into running queries of test data. Then, as I sat down to write this, I realized I needed to rewind a bit and start with some basics. So here I present to you the 5 W’s of speed tests (who, what, when, where, and why). Any mistakes in here are my own."
+  },
+  {
+    "objectID": "series-speed-test/what-is-a-speed-test/index.html#lets-start-at-the-very-beginning",
+    "href": "series-speed-test/what-is-a-speed-test/index.html#lets-start-at-the-very-beginning",
+    "title": "What is a speed test?",
+    "section": "",
+    "text": "This week I skimmed through some articles about the different types of speed tests and dove right into running queries of test data. Then, as I sat down to write this, I realized I needed to rewind a bit and start with some basics. So here I present to you the 5 W’s of speed tests (who, what, when, where, and why). Any mistakes in here are my own."
+  },
+  {
+    "objectID": "series-speed-test/what-is-a-speed-test/index.html#who",
+    "href": "series-speed-test/what-is-a-speed-test/index.html#who",
+    "title": "What is a speed test?",
+    "section": "Who",
+    "text": "Who\nTypically, a speed test starts with a person who is using the Internet and due to [insert a multitude of reasons] wants to know about the speed of their connection. The person navigates to a speed test website and runs the test. Did you know that several test options exist? When I started working in this space in 2021, I sure didn’t.\nThe tests are developed and maintained by different organizations who collect and maintain databases of the test data. These data are able to be accessed and used by anyone interested in better understanding Internet connectivity and performance, which might include researchers, policy makers, advocacy groups, regulators, and the general public."
+  },
+  {
+    "objectID": "series-speed-test/what-is-a-speed-test/index.html#what",
+    "href": "series-speed-test/what-is-a-speed-test/index.html#what",
+    "title": "What is a speed test?",
+    "section": "What",
+    "text": "What\nAccording to Ookla a, “speed test measures the speed between your device and a test server, using your device’s connection.” While this a straight forward answer that I think most folks can understand conceptually, it doesn’t quite capture the complexity of what a speed test is doing. While many of the metrics collected by different speed tests seem the same (e.g., download/upload speeds), the method by which those metrics are collected during a test can be pretty different.\nFor example, imagine the Internet is a big network of water pipes and we’re going to use some speed tests to measure how well the water is flowing through the pipes.\n\n\nFirst we want know how fast we can fill up the the pool. In this analogy, Ookla’s Speedtest®️ will measure how much water can be delivered with the hose on full blast. This test can provide insight to the maximum capacity of the network, but perhaps is not best suited for accuracy in real-world conditions.\n\n\n\n\n\n\n\n\n\nNext we want to know how much water we actually get when we’re using the hose for normal tasks, like watering the garden. In this analogy, Measurement Lab’s NDT (Network Diagnostic Tool) will measure how effectively the water is being delivered during normal water use. So this test can help evaluate for leakage or flow issues.\nWhile there are additional speed tests out there, I’m going to stick to comparisons between Ookla and Measurement Lab (M-Lab for short) data sets. These seem to be (to me) the most frequently used data sets, and folks who’s work includes the topic of “Internet access” have likely heard of one of these."
+  },
+  {
+    "objectID": "series-speed-test/what-is-a-speed-test/index.html#when",
+    "href": "series-speed-test/what-is-a-speed-test/index.html#when",
+    "title": "What is a speed test?",
+    "section": "When",
+    "text": "When\nIf you’ve ever take a speed test, take a second to remember what prompted you to take it. Maybe you were watching a sports ball game or the newest episode of Bridgerton when it began stopping frequently to buffer. You might’ve wondered if you had an issue with your connection. I would wager that there is a bias regarding when speed tests from individuals occur, because when your connection is good, you probably don’t give a thought to what a speed test would say about it. So these tests driven by a negative experience are probably common.\nThe Federal Communications Commission (FCC) also conducts speed testing (until 2023) to evaluate the performance of Internet Service Providers across the United States. The FCC and other federal and state agencies may also require speed testing to monitor the performance of network infrastructure built using public funds."
+  },
+  {
+    "objectID": "series-speed-test/what-is-a-speed-test/index.html#where",
+    "href": "series-speed-test/what-is-a-speed-test/index.html#where",
+    "title": "What is a speed test?",
+    "section": "Where",
+    "text": "Where\nSpeed tests are available to use in your Internet browser, and more recently, browser-extensions and apps became available to run a speed test. These can be run on cell phones, tablets, laptops, desktops, etc…\nWhile the test might be initiated by you on your device, where is the “test” operating? The short answer is…it depends. Remember that there are different types of tests?\nWhile all speed tests operate over the network between the user’s device and server, the test server location being used is determined by the test itself. M-Lab’s NDT uses a single server that is geographically closest to the user and located “off-net”, or the middle-mile portion of the network. Ookla’s Speedtest®️ servers are located “on-net”, or the last-mile portion of the network, and tests are directed and spread among servers with the least latency."
+  },
+  {
+    "objectID": "series-speed-test/what-is-a-speed-test/index.html#why",
+    "href": "series-speed-test/what-is-a-speed-test/index.html#why",
+    "title": "What is a speed test?",
+    "section": "Why",
+    "text": "Why\nI mentioned earlier why you might want to take a speed test - to know if your connection is the reason your Netflix binge was interrupted. If the connection seems fine, you can move on to troubleshooting your device or WiFi hardware. Testing might also be required to ensure infrastructure is meeting some standard.\nAnother reason for speed tests, and the primary motivation for me learning more about them, is to enable researchers to evaluate the performance of the infrastructure of the Internet (i.e., “the pipes”). With those data in hand, we can learn about the performance of a connection as a function of the technology used to provide it (e.g., fiber, cable, DSL, fixed wireless), the Internet Service Provider (ISP) that providers the connection, and even the geography."
+  },
+  {
+    "objectID": "speed-test-data.html",
+    "href": "speed-test-data.html",
+    "title": "Series :: Speed Test Data",
+    "section": "",
+    "text": "Where to start?\n\n\n\nspeed test\n\ndatasets\n\nvariables\n\n\n\n\n\n\n\n\n\nMay 16, 2025\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is a speed test?\n\n\n\nnews\n\nspeed test\n\ndata\n\n\n\n\n\n\n\n\n\nApr 14, 2025\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome!\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 11, 2025\n\n\nChristine Parker\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks & Webinars",
+    "section": "",
+    "text": "Parker C. Data Wrangling for Advocacy: Tidy Data to Support the Affordable Connectivity Program. 2024 August. Available from: https://youtu.be/HwA-yVESg_Q?si=PBULGxnM2kHtefl Other Significant Products,\nParker C. Maps, Maps, Maps: BEAD Challenges and Making Sense of Internet Access Maps in Texas. Institute for Local Self-Reliance; 2024 June. Available from: https://youtu.be/5mqartseApc?si=hut1HcOoZXYYp5rg\nParker C. Texas Digital Opportunity Plan - Resolving Access Gaps. Institute for Local Self- Reliance; 2024 January. Available from: https://www.youtube.com/watch?v=F7yfu4JvH8w"
   }
 ]

@@ -2,10 +2,17 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/preemption-states/index.html",
-      "/posts/where-to-start/index.html",
-      "/posts/what-is-a-speed-test/index.html",
-      "/posts/welcome/index.html"
+      "/posts/ltd/index.html",
+      "/posts/united-states-of-broadband-map/index.html",
+      "/posts/preemption-states/index.html"
+    ]
+  },
+  {
+    "listing": "/speed-test-data.html",
+    "items": [
+      "/series-speed-test/where-to-start/index.html",
+      "/series-speed-test/what-is-a-speed-test/index.html",
+      "/series-speed-test/welcome/index.html"
     ]
   }
 ]

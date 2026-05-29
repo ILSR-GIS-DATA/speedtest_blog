@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Christine Parker">
-<meta name="dcterms.date" content="2026-05-14">
+<meta name="dcterms.date" content="2025-05-16">
 
-<title>Which states have preemption laws that limit community networks? – The Download on Data</title>
+<title>Where to start? – The Download on Data</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -78,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
 <body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -109,99 +109,76 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Which states have preemption laws that limit community networks?</h1>
-                                <div class="quarto-categories">
-                <div class="quarto-category">static map</div>
-                <div class="quarto-category">preemption</div>
-                <div class="quarto-category">community networks</div>
-              </div>
-                  </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      <div>
-      <div class="quarto-title-meta-heading">Author</div>
-      <div class="quarto-title-meta-contents">
-               <p>Christine Parker </p>
-            </div>
-    </div>
-      
-      <div>
-      <div class="quarto-title-meta-heading">Published</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">May 14, 2026</p>
-      </div>
-    </div>
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Where to start?</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">speed test</div>
+    <div class="quarto-category">datasets</div>
+    <div class="quarto-category">variables</div>
+  </div>
+  </div>
 
 
 
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Christine Parker </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 16, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
 
+</header>
+
+
+<section id="what-is-easy-to-access-and-free-to-use" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-easy-to-access-and-free-to-use">What is easy to access and free to use?</h2>
+<p>Lacking any sort of clear pathway to learn about speed test data and their analysis, I decided to start by messing around with a dataset that is already packaged up for use. <a href="https://services.arcgis.com/jIL9msH9OI208GCb/arcgis/rest/services/Speedtest_by_Ookla_Global_Fixed_and_Mobile_Network_Performance_Map_Tiles/FeatureServer">Ookla Open Data are hosted by ESRI</a> in tile format. The source data used to generate these tiles can be accessed directly via <a href="https://github.com/teamookla/ookla-open-data">Ookla’s GitHub page</a>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://communitynetworks.org/content/state-state-preemption-stalled-moving-more-competitive-direction"><img src="PreemptionStates_2024.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="The image shows a map of 50 United States, with 16 of those states colored orange. The 16 states include: Alabama, Florida, Louisiana, Michigan, Missouri, Montana, Nebraska, Nevada, North Carolina, Pennsylvania, South Carolina, Tennessee, Texas, Utah, Virginia, and Wisconsin." width="462"></a></p>
+<p><a href="https://arcg.is/0nvziv"><img src="ookla_fixed_tiles.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Map of Minnesota and neighboring states with the Ookla Fixed Tiles layer displayed. The Ookla Fixed Tiles layer is illustrated as squares ranging in color from magenta to green, with magenta indicating low broadband index values and green indicating higher broadband index values."></a></p>
 </figure>
 </div>
-<figcaption>States with preemption laws limiting community networks.</figcaption>
+<figcaption>Ookla Fixed Tiles derived from the Ookla Speedtest for Global Broadband Performance are hosted by ESRI.</figcaption>
 </figure>
 </div>
-<section id="pattern" class="level2">
-<h2 class="anchored" data-anchor-id="pattern">Pattern</h2>
-<div class="grid">
-<div class="g-col-6">
-<p>The spatial extent of of some legislation.</p>
-</div>
-</div>
-</section>
-<section id="request" class="level2">
-<h2 class="anchored" data-anchor-id="request">Request</h2>
-<div class="grid">
-<div class="g-col-6">
-<p>A map showing the states that still have preemption laws that serve as barriers to community network development/operations.</p>
-</div>
+<p>Admittedly, I didn’t find this dataset to be the easiest to interpret because of the lack of granularity, but I think it’s a good starting point. With the data in a mapped format, I’m able to click around and explore the data having done nothing more than add the layer to a map. Once zoomed in, I’m able to get a clearer picture of where tests are occurring. Although, understanding connection performance is less clear to me with this dataset.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="broadband_index.png" class="img-fluid figure-img" alt="A pop-up window is displayed on top of the map next to a pink tile that is highlighted in bright teal. The pop-up window lists different metrics about the tests taken within highlighted tile, including: time period, location, number of tests, unique devices, average download, average upload, and average latency."></p>
+<figcaption>The Broadband Index is a metric calculated based on points allocated from both the upload and download speed values. Higher index values indicate higher speeds.</figcaption>
+</figure>
 </div>
 </section>
-<section id="data-used" class="level2">
-<h2 class="anchored" data-anchor-id="data-used">Data Used</h2>
-<div class="grid">
-<div class="g-col-6">
-<p>ILSR’s list of preemption states</p>
-</div>
-</div>
-</section>
-<section id="method" class="level2">
-<h2 class="anchored" data-anchor-id="method">Method</h2>
-<div class="grid">
-<div class="g-col-6">
-<p>Symbolized the states with existing preemption laws, and added drop-shadow to add emphasis.</p>
-</div>
-</div>
-</section>
-<section id="finding" class="level2">
-<h2 class="anchored" data-anchor-id="finding">Finding</h2>
-<div class="grid">
-<div class="g-col-6">
-<p>As of 1 Nov 2024, 16 states still had preemption laws in place that either strictly prohibit or present major barriers to building and operating community-owned, locally controlled broadband networks.</p>
-</div>
-</div>
+<section id="ookla-open-data" class="level2">
+<h2 class="anchored" data-anchor-id="ookla-open-data">Ookla Open Data</h2>
+<p>I’m a sucker for a free dataset but I want this one to be more useful. As you can see in the pop-up, you get lots of information about a given tile. However, these aggregated measures are just that - data summaries for a small geographic square. Along with test metadata (i.e., timing, location, number of tests, and number of devices), users are provided averages of download, upload, and latency.</p>
+<p>With these data I can also evaluate change in performance over time. Even though the ESRI-hosted tile sets inlcude only the most recent data available for a given tile, specific year-quarter datasets are available. Instructions to access those files are found <a href="#0">here</a>.</p>
+<p>The question of which ISP is under performing is not something you’ll be able to address using this dataset. To track down ISP-specific data related to these tests, you’d need to get a subscription with Ookla. Since a subscription to Ookla is out of my price range, I’ll be working with the NDT dataset from Measurement Lab.</p>
+<p><em>Ultimately, I think this dataset is a good starting point for understanding where and when connectivity problems have occurred, but not much more than that.</em></p>
 
 
 </section>
@@ -280,7 +257,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/christinethemaplady\.quarto\.pub\/the-download-on-data");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

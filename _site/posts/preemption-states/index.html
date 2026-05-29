@@ -138,6 +138,12 @@ ul.task-list li input[type="checkbox"] {
       </div>
     </div>
     
+      <div>
+      <div class="quarto-title-meta-heading">Modified</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date-modified">May 28, 2026</p>
+      </div>
+    </div>
       
     </div>
     
@@ -165,43 +171,23 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <section id="pattern" class="level2">
 <h2 class="anchored" data-anchor-id="pattern">Pattern</h2>
-<div class="grid">
-<div class="g-col-6">
-<p>The spatial extent of of some legislation.</p>
-</div>
-</div>
+<p>Map showing the spatial extent of legislation.</p>
 </section>
 <section id="request" class="level2">
 <h2 class="anchored" data-anchor-id="request">Request</h2>
-<div class="grid">
-<div class="g-col-6">
-<p>A map showing the states that still have preemption laws that serve as barriers to community network development/operations.</p>
-</div>
-</div>
+<p>A static map showing the states that still have preemption laws that serve as barriers to community network development/operations.</p>
 </section>
 <section id="data-used" class="level2">
 <h2 class="anchored" data-anchor-id="data-used">Data Used</h2>
-<div class="grid">
-<div class="g-col-6">
 <p>ILSR’s list of preemption states</p>
-</div>
-</div>
 </section>
 <section id="method" class="level2">
 <h2 class="anchored" data-anchor-id="method">Method</h2>
-<div class="grid">
-<div class="g-col-6">
 <p>Symbolized the states with existing preemption laws, and added drop-shadow to add emphasis.</p>
-</div>
-</div>
 </section>
 <section id="finding" class="level2">
 <h2 class="anchored" data-anchor-id="finding">Finding</h2>
-<div class="grid">
-<div class="g-col-6">
 <p>As of 1 Nov 2024, 16 states still had preemption laws in place that either strictly prohibit or present major barriers to building and operating community-owned, locally controlled broadband networks.</p>
-</div>
-</div>
 
 
 </section>
@@ -280,7 +266,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/christinethemaplady\.quarto\.pub\/the-download-on-data");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
