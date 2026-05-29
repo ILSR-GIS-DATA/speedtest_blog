@@ -2,6 +2,7 @@
 title: "The United State(s) of Broadband Map"
 author: "Christine Parker"
 date: "2026-05-22"
+date-modified: "2026-05-28"
 categories: [static map, interactive, mapbox, state map]
 image: "mapofmaps.png"
 ---
@@ -10,7 +11,7 @@ image: "mapofmaps.png"
 
 ::::: grid
 ::: g-col-6
-Interactive map of variation by state.
+Interactive map of state differences.
 :::
 
 ::: g-col-6

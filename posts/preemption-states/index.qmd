@@ -2,6 +2,7 @@
 title: "Which states have preemption laws that limit community networks?"
 author: "Christine Parker"
 date: "2026-05-14"
+date-modified: "2026-05-28"
 categories: [static map, preemption, community networks]
 image: "PreemptionStates_2024.png"
 ---
@@ -10,28 +11,20 @@ image: "PreemptionStates_2024.png"
 
 ## Pattern
 
-The spatial extent of of some legislation.
-
+Map showing the spatial extent of legislation.
 
 ## Request
 
-A map showing the states that still have preemption laws that serve as barriers to community network development/operations.
-
+A static map showing the states that still have preemption laws that serve as barriers to community network development/operations.
 
 ## Data Used
 
-
 ILSR's list of preemption states
-
 
 ## Method
 
-
 Symbolized the states with existing preemption laws, and added drop-shadow to add emphasis.
-
 
 ## Finding
 
-
 As of 1 Nov 2024, 16 states still had preemption laws in place that either strictly prohibit or present major barriers to building and operating community-owned, locally controlled broadband networks.
-
