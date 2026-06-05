@@ -40,5 +40,8 @@
   },
   "talks.qmd": {
     "talks.html": "15de6929"
+  },
+  "posts/compost-mini-census-analysis/index.qmd": {
+    "index.html": "962a774c"
   }
 }

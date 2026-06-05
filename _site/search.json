@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "The Download on Data",
     "section": "",
-    "text": "Series\n\nspeed-test-data\nThis series of posts are focused on learning about speed tests and the data they create.\n\n\n\nAll Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBad Actors in Broadband\n\n\n\nstatic map\n\nRDOF\n\nLTD\n\n\n\n\n\n\n\n\n\nMay 29, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe United State(s) of Broadband Map\n\n\n\nstatic map\n\ninteractive\n\nmapbox\n\nstate map\n\n\n\n\n\n\n\n\n\nMay 22, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWhich states have preemption laws that limit community networks?\n\n\n\nstatic map\n\npreemption\n\ncommunity networks\n\n\n\n\n\n\n\n\n\nMay 14, 2026\n\n\nChristine Parker\n\n\n\n\n\nNo matching items"
+    "text": "Series\n\nspeed-test-data\nThis series of posts are focused on learning about speed tests and the data they create.\n\n\n\nAll Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA peak into community composting\n\n\n\ncompost\n\nstatistics\n\nnon-normal distribution\n\nbox plot\n\nhistogram\n\n\n\n\n\n\n\n\n\nJun 5, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nBad Actors in Broadband\n\n\n\nstatic map\n\nRDOF\n\nLTD\n\n\n\n\n\n\n\n\n\nMay 29, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe United State(s) of Broadband Map\n\n\n\nstatic map\n\ninteractive\n\nmapbox\n\nstate map\n\n\n\n\n\n\n\n\n\nMay 22, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWhich states have preemption laws that limit community networks?\n\n\n\nstatic map\n\npreemption\n\ncommunity networks\n\n\n\n\n\n\n\n\n\nMay 14, 2026\n\n\nChristine Parker\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/what-is-a-speed-test/index.html",
@@ -369,5 +369,47 @@
     "title": "Talks & Webinars",
     "section": "",
     "text": "Parker C. Data Wrangling for Advocacy: Tidy Data to Support the Affordable Connectivity Program. 2024 August. Available from: https://youtu.be/HwA-yVESg_Q?si=PBULGxnM2kHtefl Other Significant Products,\nParker C. Maps, Maps, Maps: BEAD Challenges and Making Sense of Internet Access Maps in Texas. Institute for Local Self-Reliance; 2024 June. Available from: https://youtu.be/5mqartseApc?si=hut1HcOoZXYYp5rg\nParker C. Texas Digital Opportunity Plan - Resolving Access Gaps. Institute for Local Self- Reliance; 2024 January. Available from: https://www.youtube.com/watch?v=F7yfu4JvH8w"
+  },
+  {
+    "objectID": "posts/compost-mini-census-analysis/index.html",
+    "href": "posts/compost-mini-census-analysis/index.html",
+    "title": "A peak into community composting",
+    "section": "",
+    "text": "Summary statistics and evaluation of relationships in a data set collected by ILSR.\n\n\n\n\n\nBox and whisker plot showing the distribution of compost mitigation strategies, when categorized as “educational” or “removal”."
+  },
+  {
+    "objectID": "posts/compost-mini-census-analysis/index.html#pattern",
+    "href": "posts/compost-mini-census-analysis/index.html#pattern",
+    "title": "A peak into community composting",
+    "section": "",
+    "text": "Summary statistics and evaluation of relationships in a data set collected by ILSR.\n\n\n\n\n\nBox and whisker plot showing the distribution of compost mitigation strategies, when categorized as “educational” or “removal”."
+  },
+  {
+    "objectID": "posts/compost-mini-census-analysis/index.html#request",
+    "href": "posts/compost-mini-census-analysis/index.html#request",
+    "title": "A peak into community composting",
+    "section": "Request",
+    "text": "Request\nThis data analysis was requested to support a broader effort (published in this report) to demonstrate the benefits of composting, and highlight ways in which governments can collaborate with local community composters. I evaluated questions about government support and operations-scaling in relation to staffing and financials, and other questions about compost contamination as a function of mitigation strategies."
+  },
+  {
+    "objectID": "posts/compost-mini-census-analysis/index.html#data-used",
+    "href": "posts/compost-mini-census-analysis/index.html#data-used",
+    "title": "A peak into community composting",
+    "section": "Data Used",
+    "text": "Data Used\nData were collected from ILSR’s 2024 Mini-Census of the Community Composter Coalition, and 103 community composters completed the survey."
+  },
+  {
+    "objectID": "posts/compost-mini-census-analysis/index.html#finding",
+    "href": "posts/compost-mini-census-analysis/index.html#finding",
+    "title": "A peak into community composting",
+    "section": "Finding",
+    "text": "Finding\nOne important result was the type of government support influences the capacity for organizations to have paid staff. Having “zero waste, diversion, or composting goals/targets” was the most common type of government support expressed by survey respondents. Organizations had more paid staff members1 when the community had a composting or curbside collection contract with the local government."
+  },
+  {
+    "objectID": "posts/compost-mini-census-analysis/index.html#footnotes",
+    "href": "posts/compost-mini-census-analysis/index.html#footnotes",
+    "title": "A peak into community composting",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nWhen compared with paid staff levels among organizations that had “communities with goals/targets” as the only form of government support.↩︎"
   }
 ]
