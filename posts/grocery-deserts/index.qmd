@@ -1,0 +1,42 @@
+---
+title: "The Grocery Map"
+author: "Christine Parker"
+date: "2026-06-11"
+date-modified: ""
+categories: [dashboard, interactive map, congressional district, AGOL, groceries, food deserts]
+image: "dashboard_screenshot.png"
+---
+
+## Pattern
+
+::::: grid
+::: g-col-6
+Interactive dashboard that displays federal location data (classified by ILSR staff) and polygon data in a map, and additional elements that summarize those data by congressional district.
+:::
+
+::: g-col-6
+[![This dashboard displays grocery store locations (classified by store type) and areas with limited or no local food access (food deserts). It also provides a summary of grocery store locations and food desert statistics for the nation, and for a selected congressional district.](dashboard_screenshot.png){fig-alt="Image of the dashboard 'Mapping Food Deserts and Grocery Store Consolidation'. The dashboard has 4 sections: filters; definitions/legend; map; and analysis." fig-align="center"}](https://www.arcgis.com/apps/dashboards/34739ba6f3cf480cabf8eb0698c9d8a4)
+:::
+:::::
+
+## Request
+
+A dashboard that shows grocery store locations and food deserts, along with congressional district summaries.
+
+## Data Used
+
+Grocery store location data are from the [USDA's SNAP Retailer Historical Data (as of Dec 2024)](https://www.fns.usda.gov/snap/retailer-locator/data), which includes the name, type, address, and geographic location for any retailed authorized to accept SNAP benefits. Only retailers that were categorized (by USDA) as "superstore" or "supermarket" were included in this map; convenience stores and dollar chains were not included. ILSR staff categorized stores into four types:
+
+- **Independent:** Under 10 locations and privately / locally owned.
+
+- **Small chain:** 10 - 100 locations, some are privately / locally owned.
+
+- **Large chain:** More than 100 locations (excluding megachains).
+
+- **Megachains:** Brands owned by the ten largest grocery retailers: Walmart, Kroger, Costco, Amazon, Aldi Süd, Albertsons, Ahold-Delhaize, H-E-B, Publix Supermarket, and Target
+
+Food desert data from from [USDA's Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas). This dataset provides food access measures, as a function of income and grocery store proximity, at the census tract level.
+
+## Finding
+
+Food accessibility is a widespread issue in the United States. You can read a more about the spread of food deserts and concentration of power in the grocery market [here](https://ilsr.org/wp-content/uploads/2026/01/ILSRGroceryConsolidationIssueBrief.pdf).

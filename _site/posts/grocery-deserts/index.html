@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Christine Parker">
+<meta name="dcterms.date" content="2026-06-11">
 
-<title>The Download on Data – Download on Data</title>
+<title>The Grocery Map – Download on Data</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +25,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-926b14dc1eb7012682e9935fd1ab1d5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-926b14dc1eb7012682e9935fd1ab1d5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,77 +70,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Download on Data</span>
     </a>
   </div>
@@ -151,15 +93,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./talks.html"> <i class="bi bi-play-btn" role="img">
+    <a class="nav-link" href="../../talks.html"> <i class="bi bi-play-btn" role="img">
 </i> 
 <span class="menu-text">Speaking</span></a>
   </li>  
@@ -178,234 +120,94 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">The Download on Data</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">The Grocery Map</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">dashboard</div>
+                <div class="quarto-category">interactive map</div>
+                <div class="quarto-category">congressional district</div>
+                <div class="quarto-category">AGOL</div>
+                <div class="quarto-category">groceries</div>
+                <div class="quarto-category">food deserts</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Christine Parker </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">June 11, 2026</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="QUdPTA==">AGOL <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ym94JTIwcGxvdA==">box plot <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29tbXVuaXR5JTIwbmV0d29ya3M=">community networks <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29tcG9zdA==">compost <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29uZ3Jlc3Npb25hbCUyMGRpc3RyaWN0">congressional district <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGFzaGJvYXJk">dashboard <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Zm9vZCUyMGRlc2VydHM=">food deserts <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Z3JvY2VyaWVz">groceries <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGlzdG9ncmFt">histogram <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW50ZXJhY3RpdmU=">interactive <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW50ZXJhY3RpdmUlMjBtYXA=">interactive map <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TFRE">LTD <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bWFwYm94">mapbox <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bm9uLW5vcm1hbCUyMGRpc3RyaWJ1dGlvbg==">non-normal distribution <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cHJlZW1wdGlvbg==">preemption <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UkRPRg==">RDOF <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3RhdGUlMjBtYXA=">state map <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3RhdGljJTIwbWFw">static map <span class="quarto-category-count">(3)</span></div><div class="category" data-category="c3RhdGlzdGljcw==">statistics <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
-<section id="series" class="level1">
-<h1>Series</h1>
-<section id="speed-test-data" class="level5">
-<h5 class="anchored" data-anchor-id="speed-test-data"><a href="speed-test-data.html"><strong>speed-test-data</strong></a></h5>
-<p>This series of posts are focused on learning about speed tests and the data they create.</p>
+<section id="pattern" class="level2">
+<h2 class="anchored" data-anchor-id="pattern">Pattern</h2>
+<div class="grid">
+<div class="g-col-6">
+<p>Interactive dashboard that displays federal location data (classified by ILSR staff) and polygon data in a map, and additional elements that summarize those data by congressional district.</p>
+</div>
+<div class="g-col-6">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.arcgis.com/apps/dashboards/34739ba6f3cf480cabf8eb0698c9d8a4"><img src="dashboard_screenshot.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Image of the dashboard 'Mapping Food Deserts and Grocery Store Consolidation'. The dashboard has 4 sections: filters; definitions/legend; map; and analysis."></a></p>
+</figure>
+</div>
+<figcaption>This dashboard displays grocery store locations (classified by store type) and areas with limited or no local food access (food deserts). It also provides a summary of grocery store locations and food desert statistics for the nation, and for a selected congressional district.</figcaption>
+</figure>
+</div>
+</div>
+</div>
 </section>
+<section id="request" class="level2">
+<h2 class="anchored" data-anchor-id="request">Request</h2>
+<p>A dashboard that shows grocery store locations and food deserts, along with congressional district summaries.</p>
 </section>
-<section id="all-posts" class="level1">
-<h1>All Posts</h1>
-
+<section id="data-used" class="level2">
+<h2 class="anchored" data-anchor-id="data-used">Data Used</h2>
+<p>Grocery store location data are from the <a href="https://www.fns.usda.gov/snap/retailer-locator/data">USDA’s SNAP Retailer Historical Data (as of Dec 2024)</a>, which includes the name, type, address, and geographic location for any retailed authorized to accept SNAP benefits. Only retailers that were categorized (by USDA) as “superstore” or “supermarket” were included in this map; convenience stores and dollar chains were not included. ILSR staff categorized stores into four types:</p>
+<ul>
+<li><p><strong>Independent:</strong> Under 10 locations and privately / locally owned.</p></li>
+<li><p><strong>Small chain:</strong> 10 - 100 locations, some are privately / locally owned.</p></li>
+<li><p><strong>Large chain:</strong> More than 100 locations (excluding megachains).</p></li>
+<li><p><strong>Megachains:</strong> Brands owned by the ten largest grocery retailers: Walmart, Kroger, Costco, Amazon, Aldi Süd, Albertsons, Ahold-Delhaize, H-E-B, Publix Supermarket, and Target</p></li>
+</ul>
+<p>Food desert data from from <a href="https://www.ers.usda.gov/data-products/food-access-research-atlas">USDA’s Food Access Research Atlas</a>, which providers food access measures, as a function of income and grocery store proximity, at the census tract level.</p>
+</section>
+<section id="finding" class="level2">
+<h2 class="anchored" data-anchor-id="finding">Finding</h2>
+<p>Food accessibility is a widespread issue in the United States. You can read a more about the spread of food deserts and concentration of power in the grocery market <a href="https://ilsr.org/wp-content/uploads/2026/01/ILSRGroceryConsolidationIssueBrief.pdf">here</a>.</p>
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="ZGFzaGJvYXJkJTJDaW50ZXJhY3RpdmUlMjBtYXAlMkNjb25ncmVzc2lvbmFsJTIwZGlzdHJpY3QlMkNBR09MJTJDZ3JvY2VyaWVzJTJDZm9vZCUyMGRlc2VydHM=" data-listing-date-sort="1781150400000" data-listing-file-modified-sort="1781185816838" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="282">
-<div class="thumbnail"><a href="./posts/grocery-deserts/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/grocery-deserts/dashboard_screenshot.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/grocery-deserts/index.html" class="no-external">The Grocery Map</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGFzaGJvYXJk'); return false;">dashboard</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aW50ZXJhY3RpdmUlMjBtYXA='); return false;">interactive map</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29uZ3Jlc3Npb25hbCUyMGRpc3RyaWN0'); return false;">congressional district</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUdPTA=='); return false;">AGOL</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z3JvY2VyaWVz'); return false;">groceries</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Zm9vZCUyMGRlc2VydHM='); return false;">food deserts</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/grocery-deserts/index.html" class="no-external">
-Interactive dashboard that displays federal location data (classified by ILSR staff) and polygon data in a map, and additional elements that summarize those data by…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/grocery-deserts/index.html" class="no-external">
-<div class="listing-date">
-Jun 11, 2026
-</div>
-<div class="listing-author">
-Christine Parker
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="Y29tcG9zdCUyQ3N0YXRpc3RpY3MlMkNub24tbm9ybWFsJTIwZGlzdHJpYnV0aW9uJTJDYm94JTIwcGxvdCUyQ2hpc3RvZ3JhbQ==" data-listing-date-sort="1780632000000" data-listing-file-modified-sort="1780694362487" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="211">
-<div class="thumbnail"><a href="./posts/compost-mini-census-analysis/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/compost-mini-census-analysis/contamination_mitigation.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/compost-mini-census-analysis/index.html" class="no-external">A peak into community composting</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29tcG9zdA=='); return false;">compost</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3RhdGlzdGljcw=='); return false;">statistics</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bm9uLW5vcm1hbCUyMGRpc3RyaWJ1dGlvbg=='); return false;">non-normal distribution</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Ym94JTIwcGxvdA=='); return false;">box plot</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9ncmFt'); return false;">histogram</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/compost-mini-census-analysis/index.html" class="no-external">
-Summary statistics and evaluation of relationships in a data set collected by ILSR.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/compost-mini-census-analysis/index.html" class="no-external">
-<div class="listing-date">
-Jun 5, 2026
-</div>
-<div class="listing-author">
-Christine Parker
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="c3RhdGljJTIwbWFwJTJDUkRPRiUyQ0xURA==" data-listing-date-sort="1780027200000" data-listing-file-modified-sort="1780069659921" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="426">
-<div class="thumbnail"><a href="./posts/ltd/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/ltd/rdof_jun15.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ltd/index.html" class="no-external">Bad Actors in Broadband</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3RhdGljJTIwbWFw'); return false;">static map</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UkRPRg=='); return false;">RDOF</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TFRE'); return false;">LTD</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/ltd/index.html" class="no-external">
-Map of bids won and defaulted on by a specific Internet service provider in a federal infrastructure program auction.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ltd/index.html" class="no-external">
-<div class="listing-date">
-May 29, 2026
-</div>
-<div class="listing-author">
-Christine Parker
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="c3RhdGljJTIwbWFwJTJDaW50ZXJhY3RpdmUlMkNtYXBib3glMkNzdGF0ZSUyMG1hcA==" data-listing-date-sort="1779422400000" data-listing-file-modified-sort="1780004088609" data-listing-date-modified-sort="1779940800000" data-listing-reading-time-sort="4" data-listing-word-count-sort="617">
-<div class="thumbnail"><a href="./posts/united-states-of-broadband-map/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/united-states-of-broadband-map/mapofmaps.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/united-states-of-broadband-map/index.html" class="no-external">The United State(s) of Broadband Map</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3RhdGljJTIwbWFw'); return false;">static map</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aW50ZXJhY3RpdmU='); return false;">interactive</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bWFwYm94'); return false;">mapbox</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3RhdGUlMjBtYXA='); return false;">state map</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/united-states-of-broadband-map/index.html" class="no-external">
-Interactive map of state differences.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/united-states-of-broadband-map/index.html" class="no-external">
-<div class="listing-date">
-May 22, 2026
-</div>
-<div class="listing-author">
-Christine Parker
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="c3RhdGljJTIwbWFwJTJDcHJlZW1wdGlvbiUyQ2NvbW11bml0eSUyMG5ldHdvcmtz" data-listing-date-sort="1778731200000" data-listing-file-modified-sort="1780003087622" data-listing-date-modified-sort="1779940800000" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
-<div class="thumbnail"><a href="./posts/preemption-states/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/preemption-states/PreemptionStates_2024.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/preemption-states/index.html" class="no-external">Which states have preemption laws that limit community networks?</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3RhdGljJTIwbWFw'); return false;">static map</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJlZW1wdGlvbg=='); return false;">preemption</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29tbXVuaXR5JTIwbmV0d29ya3M='); return false;">community networks</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/preemption-states/index.html" class="no-external">
-Map showing the spatial extent of legislation.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/preemption-states/index.html" class="no-external">
-<div class="listing-date">
-May 14, 2026
-</div>
-<div class="listing-author">
-Christine Parker
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "The Download on Data",
     "section": "",
-    "text": "Series\n\nspeed-test-data\nThis series of posts are focused on learning about speed tests and the data they create.\n\n\n\nAll Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA peak into community composting\n\n\n\ncompost\n\nstatistics\n\nnon-normal distribution\n\nbox plot\n\nhistogram\n\n\n\n\n\n\n\n\n\nJun 5, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nBad Actors in Broadband\n\n\n\nstatic map\n\nRDOF\n\nLTD\n\n\n\n\n\n\n\n\n\nMay 29, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe United State(s) of Broadband Map\n\n\n\nstatic map\n\ninteractive\n\nmapbox\n\nstate map\n\n\n\n\n\n\n\n\n\nMay 22, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWhich states have preemption laws that limit community networks?\n\n\n\nstatic map\n\npreemption\n\ncommunity networks\n\n\n\n\n\n\n\n\n\nMay 14, 2026\n\n\nChristine Parker\n\n\n\n\n\nNo matching items"
+    "text": "Series\n\nspeed-test-data\nThis series of posts are focused on learning about speed tests and the data they create.\n\n\n\nAll Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Grocery Map\n\n\n\ndashboard\n\ninteractive map\n\ncongressional district\n\nAGOL\n\ngroceries\n\nfood deserts\n\n\n\n\n\n\n\n\n\nJun 11, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nA peak into community composting\n\n\n\ncompost\n\nstatistics\n\nnon-normal distribution\n\nbox plot\n\nhistogram\n\n\n\n\n\n\n\n\n\nJun 5, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nBad Actors in Broadband\n\n\n\nstatic map\n\nRDOF\n\nLTD\n\n\n\n\n\n\n\n\n\nMay 29, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe United State(s) of Broadband Map\n\n\n\nstatic map\n\ninteractive\n\nmapbox\n\nstate map\n\n\n\n\n\n\n\n\n\nMay 22, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWhich states have preemption laws that limit community networks?\n\n\n\nstatic map\n\npreemption\n\ncommunity networks\n\n\n\n\n\n\n\n\n\nMay 14, 2026\n\n\nChristine Parker\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/what-is-a-speed-test/index.html",
@@ -411,5 +411,40 @@
     "title": "A peak into community composting",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nWhen compared with paid staff levels among organizations that had “communities with goals/targets” as the only form of government support.↩︎"
+  },
+  {
+    "objectID": "posts/grocery-deserts/index.html",
+    "href": "posts/grocery-deserts/index.html",
+    "title": "The Grocery Map",
+    "section": "",
+    "text": "Interactive dashboard that displays federal location data (classified by ILSR staff) and polygon data in a map, and additional elements that summarize those data by congressional district.\n\n\n\n\n\n\n\n\n\nThis dashboard displays grocery store locations (classified by store type) and areas with limited or no local food access (food deserts). It also provides a summary of grocery store locations and food desert statistics for the nation, and for a selected congressional district."
+  },
+  {
+    "objectID": "posts/grocery-deserts/index.html#pattern",
+    "href": "posts/grocery-deserts/index.html#pattern",
+    "title": "The Grocery Map",
+    "section": "",
+    "text": "Interactive dashboard that displays federal location data (classified by ILSR staff) and polygon data in a map, and additional elements that summarize those data by congressional district.\n\n\n\n\n\n\n\n\n\nThis dashboard displays grocery store locations (classified by store type) and areas with limited or no local food access (food deserts). It also provides a summary of grocery store locations and food desert statistics for the nation, and for a selected congressional district."
+  },
+  {
+    "objectID": "posts/grocery-deserts/index.html#request",
+    "href": "posts/grocery-deserts/index.html#request",
+    "title": "The Grocery Map",
+    "section": "Request",
+    "text": "Request\nA dashboard that shows grocery store locations and food deserts, along with congressional district summaries."
+  },
+  {
+    "objectID": "posts/grocery-deserts/index.html#data-used",
+    "href": "posts/grocery-deserts/index.html#data-used",
+    "title": "The Grocery Map",
+    "section": "Data Used",
+    "text": "Data Used\nGrocery store location data are from the USDA’s SNAP Retailer Historical Data (as of Dec 2024), which includes the name, type, address, and geographic location for any retailed authorized to accept SNAP benefits. Only retailers that were categorized (by USDA) as “superstore” or “supermarket” were included in this map; convenience stores and dollar chains were not included. ILSR staff categorized stores into four types:\n\nIndependent: Under 10 locations and privately / locally owned.\nSmall chain: 10 - 100 locations, some are privately / locally owned.\nLarge chain: More than 100 locations (excluding megachains).\nMegachains: Brands owned by the ten largest grocery retailers: Walmart, Kroger, Costco, Amazon, Aldi Süd, Albertsons, Ahold-Delhaize, H-E-B, Publix Supermarket, and Target\n\nFood desert data from from USDA’s Food Access Research Atlas, which providers food access measures, as a function of income and grocery store proximity, at the census tract level."
+  },
+  {
+    "objectID": "posts/grocery-deserts/index.html#finding",
+    "href": "posts/grocery-deserts/index.html#finding",
+    "title": "The Grocery Map",
+    "section": "Finding",
+    "text": "Finding\nFood accessibility is a widespread issue in the United States. You can read a more about the spread of food deserts and concentration of power in the grocery market here."
   }
 ]
