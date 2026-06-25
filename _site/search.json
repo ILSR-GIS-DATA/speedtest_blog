@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "The Download on Data",
     "section": "",
-    "text": "Series\n\nspeed-test-data\nThis series of posts are focused on learning about speed tests and the data they create.\n\n\n\nAll Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Grocery Map\n\n\n\ndashboard\n\ninteractive map\n\ncongressional district\n\nAGOL\n\ngroceries\n\nfood deserts\n\n\n\n\n\n\n\n\n\nJun 11, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nA peak into community composting\n\n\n\ncompost\n\nstatistics\n\nnon-normal distribution\n\nbox plot\n\nhistogram\n\n\n\n\n\n\n\n\n\nJun 5, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nBad Actors in Broadband\n\n\n\nstatic map\n\nRDOF\n\nLTD\n\n\n\n\n\n\n\n\n\nMay 29, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe United State(s) of Broadband Map\n\n\n\nstatic map\n\ninteractive\n\nmapbox\n\nstate map\n\n\n\n\n\n\n\n\n\nMay 22, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWhich states have preemption laws that limit community networks?\n\n\n\nstatic map\n\npreemption\n\ncommunity networks\n\n\n\n\n\n\n\n\n\nMay 14, 2026\n\n\nChristine Parker\n\n\n\n\n\nNo matching items"
+    "text": "Series\n\nspeed-test-data\nThis series of posts are focused on learning about speed tests and the data they create.\n\n\n\nAll Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUpper C=Band::Tribal Priority Window\n\n\n\ndigital map\n\nTribal areas\n\nspectrum\n\n\n\n\n\n\n\n\n\nJun 25, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe Grocery Map\n\n\n\ndashboard\n\ninteractive map\n\ncongressional district\n\nAGOL\n\ngroceries\n\nfood deserts\n\n\n\n\n\n\n\n\n\nJun 11, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nA peak into community composting\n\n\n\ncompost\n\nstatistics\n\nnon-normal distribution\n\nbox plot\n\nhistogram\n\n\n\n\n\n\n\n\n\nJun 5, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nBad Actors in Broadband\n\n\n\nstatic map\n\nRDOF\n\nLTD\n\n\n\n\n\n\n\n\n\nMay 29, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe United State(s) of Broadband Map\n\n\n\nstatic map\n\ninteractive\n\nmapbox\n\nstate map\n\n\n\n\n\n\n\n\n\nMay 22, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWhich states have preemption laws that limit community networks?\n\n\n\nstatic map\n\npreemption\n\ncommunity networks\n\n\n\n\n\n\n\n\n\nMay 14, 2026\n\n\nChristine Parker\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/what-is-a-speed-test/index.html",
@@ -438,7 +438,7 @@
     "href": "posts/grocery-deserts/index.html#data-used",
     "title": "The Grocery Map",
     "section": "Data Used",
-    "text": "Data Used\nGrocery store location data are from the USDA’s SNAP Retailer Historical Data (as of Dec 2024), which includes the name, type, address, and geographic location for any retailed authorized to accept SNAP benefits. Only retailers that were categorized (by USDA) as “superstore” or “supermarket” were included in this map; convenience stores and dollar chains were not included. ILSR staff categorized stores into four types:\n\nIndependent: Under 10 locations and privately / locally owned.\nSmall chain: 10 - 100 locations, some are privately / locally owned.\nLarge chain: More than 100 locations (excluding megachains).\nMegachains: Brands owned by the ten largest grocery retailers: Walmart, Kroger, Costco, Amazon, Aldi Süd, Albertsons, Ahold-Delhaize, H-E-B, Publix Supermarket, and Target\n\nFood desert data from from USDA’s Food Access Research Atlas, which providers food access measures, as a function of income and grocery store proximity, at the census tract level."
+    "text": "Data Used\nGrocery store location data are from the USDA’s SNAP Retailer Historical Data (as of Dec 2024), which includes the name, type, address, and geographic location for any retailed authorized to accept SNAP benefits. Only retailers that were categorized (by USDA) as “superstore” or “supermarket” were included in this map; convenience stores and dollar chains were not included. ILSR staff categorized stores into four types:\n\nIndependent: Under 10 locations and privately / locally owned.\nSmall chain: 10 - 100 locations, some are privately / locally owned.\nLarge chain: More than 100 locations (excluding megachains).\nMegachains: Brands owned by the ten largest grocery retailers: Walmart, Kroger, Costco, Amazon, Aldi Süd, Albertsons, Ahold-Delhaize, H-E-B, Publix Supermarket, and Target\n\nFood desert data from from USDA’s Food Access Research Atlas. This dataset provides food access measures, as a function of income and grocery store proximity, at the census tract level."
   },
   {
     "objectID": "posts/grocery-deserts/index.html#finding",
@@ -446,5 +446,47 @@
     "title": "The Grocery Map",
     "section": "Finding",
     "text": "Finding\nFood accessibility is a widespread issue in the United States. You can read a more about the spread of food deserts and concentration of power in the grocery market here."
+  },
+  {
+    "objectID": "posts/TPW/index.html",
+    "href": "posts/TPW/index.html",
+    "title": "Upper C=Band::Tribal Priority Window",
+    "section": "",
+    "text": "A map that illustrates areas that would be included in a federal spectrum auction."
+  },
+  {
+    "objectID": "posts/TPW/index.html#pattern",
+    "href": "posts/TPW/index.html#pattern",
+    "title": "Upper C=Band::Tribal Priority Window",
+    "section": "",
+    "text": "A map that illustrates areas that would be included in a federal spectrum auction."
+  },
+  {
+    "objectID": "posts/TPW/index.html#request",
+    "href": "posts/TPW/index.html#request",
+    "title": "Upper C=Band::Tribal Priority Window",
+    "section": "Request",
+    "text": "Request\nA map that shows Tribal areas that may be included in a Federal Communication Commission (FCC) auction of upper c-band spectrum. It also needed to show Tribal areas that would be eligible based on a prior definition of eligibility for a Tribal priority window and Tribal areas that would be eligible based on a more expansive definition of eligibility. The overall goal of the map was to demonstrate that the more expansive definition of Tribal eligibility would enable more Tribes to participate and/or expand where Tribes could participate, but is a minor change to make."
+  },
+  {
+    "objectID": "posts/TPW/index.html#data-used",
+    "href": "posts/TPW/index.html#data-used",
+    "title": "Upper C=Band::Tribal Priority Window",
+    "section": "Data Used",
+    "text": "Data Used\n\n\nPartial Economic Areas: subdivisions of EAs based on the Cellular Market Area1 boundaries; they are smaller than EAs2 and they separate rural from urban markets to a greater degree than EAs3. Not all PEAs shown in this map had spectrum available to be licensed in the auction.\n\n\n\n\n\n\n\n\n\nMap of partial economic area boundaries across the United States.\n\n\n\n\nRural Tribal Window Applications (Pending and Accepted for Filing) - More specifically, the layer Eligible Tribal Lands was used to illustrate the more restrictive definition of Tribal eligibility.\nThe American Indian, Alaska Native, and Native Hawaiin Areas geography was used to illustrate the more expansive definition of Tribal eligibility. This layer was filter to remove areas of CLASSFP types ‘D44’ and ‘D95’."
+  },
+  {
+    "objectID": "posts/TPW/index.html#finding",
+    "href": "posts/TPW/index.html#finding",
+    "title": "Upper C=Band::Tribal Priority Window",
+    "section": "Finding",
+    "text": "Finding\nThe difference (measured in population) between the proposed geographic eligibility for Tribes vs. the more restrictive definition is pretty minimal (&lt;1%)."
+  },
+  {
+    "objectID": "posts/TPW/index.html#footnotes",
+    "href": "posts/TPW/index.html#footnotes",
+    "title": "Upper C=Band::Tribal Priority Window",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nCMAs are standard geographic areas used for licensing cellular systems; they consist of Metropolitan Statistical Areas (MSAs) (defined by OMB) and Rural Service Areas (RSAs) (defined by the FCC).↩︎\nAs defined by the Bureau of Economic Analysis, EAs are “one or more economic nodes – metropolitan areas or similar areas that serve as centers of economic activity – and the surrounding counties that are economically related to the nodes”. EAs can be aggregated to form larger areas, such as Major Economic Areas (MEAs) and Regional Economic Area Groupings (REAGs).↩︎\nDefinitions of PEA, EA, and CMA from this page.↩︎\nLegal state recognized American Indian area.↩︎\nStatistical American Indian area defined for a state-recognized tribe that does not have a reservation or off-reservation trust land, specifically a state-designated tribal statistical area.↩︎"
   }
 ]
