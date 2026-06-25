@@ -4,7 +4,7 @@ author: "Christine Parker"
 date: "2026-05-29"
 date-modified: "2026-06-25"
 categories: [static map, RDOF, LTD]
-image: "LTD_won_default2.png"
+image: "LTD_won-default2.png"
 ---
 
 ## Pattern
