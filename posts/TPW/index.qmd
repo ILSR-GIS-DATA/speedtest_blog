@@ -15,6 +15,8 @@ A map that illustrates areas that would be included in a federal spectrum auctio
 
 </iframe>
 
+The layers illustrating differences between the proposed and restrictive definitions of eligibility are based on the calculation of population within Tribal areas within a given PEA (for each definition of Tribal eligibility).
+
 ## Request
 
 A map that shows Tribal areas that may be included in a Federal Communication Commission (FCC) auction of upper c-band spectrum. It also needed to show Tribal areas that would be eligible based on a prior definition of eligibility for a Tribal priority window and Tribal areas that would be eligible based on a more expansive definition of eligibility. The overall goal of the map was to demonstrate that the more expansive definition of Tribal eligibility would enable more Tribes to participate and/or expand where Tribes could participate, but is a minor change to make.
