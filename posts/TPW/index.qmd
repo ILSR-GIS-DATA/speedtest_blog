@@ -4,7 +4,7 @@ author: "Christine Parker"
 date: "2026-06-25"
 date-modified: ""
 categories: [digital map, Tribal areas, spectrum]
-image: "dashboard_screenshot.png"
+image: "tpw.png"
 ---
 
 ## Pattern
