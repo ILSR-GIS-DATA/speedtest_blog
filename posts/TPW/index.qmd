@@ -1,5 +1,5 @@
 ---
-title: "Upper C=Band::Tribal Priority Window"
+title: "Upper C-Band::Tribal Priority Window"
 author: "Christine Parker"
 date: "2026-06-25"
 date-modified: ""
