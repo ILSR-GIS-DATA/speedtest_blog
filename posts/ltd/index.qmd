@@ -2,8 +2,9 @@
 title: "Bad Actors in Broadband"
 author: "Christine Parker"
 date: "2026-05-29"
+date-modified: "2026-06-25"
 categories: [static map, RDOF, LTD]
-image: "rdof_jun15.png"
+image: "LTD_won_default2.png"
 ---
 
 ## Pattern
