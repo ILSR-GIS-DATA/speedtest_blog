@@ -1,0 +1,42 @@
+---
+title: "ISP Proposes to Take More Taxpayer Money"
+author: "Christine Parker"
+date: "2026-06-29"
+date-modified: ""
+categories: [static map, Frontier, CPUC, georeference]
+image: "Frontier_AntelopeValley.png"
+---
+
+## Pattern
+
+::::: grid
+::: g-col-6
+Map of where an Internet service provider received funds to build infrastructure.
+:::
+
+::: g-col-6
+![Figure 1. Locations where Frontier requested funds from the California Public Utilities Commission to build fiber Internet infrastructure where they recently completed building out copper infrastructure using funds from the Connect America Fund Auction.](FrontierCAF_AntelopeValley.png){fig-alt="A static map of locations in the Antelope Valley area of Los Angeles County, California where many locations where funding is requested correspond to locations that were also previously funded for infrastructure development to Frontier" fig-align="center"}
+:::
+:::::
+
+## Request
+
+:::: grid
+::: g-col-6
+The California Public Utilities Commission (CPUC) received several requests from [Frontier](https://frontier.com/) to provide funding for building fiber infrastructure. The ask here was to determine if the request in Los Angeles County overlapped with any prior public funding that Frontier received.
+:::
+::::
+
+## Data Used
+
+The original map of proposed locations was provided as an image, as part of the proposal request. See last two pages in the pdf below. No spatial data were included with the request, so the map of locations included in the request was georeferenced.
+
+```{=html}
+<object data="Item 01_Project Summary_Frontier_Los Angeles County.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">     <p>It appears you don't have a PDF plugin for this browser.     No biggie... you can <a href="Item 01_Project Summary_Frontier_Los Angeles County.pdf">click here to     download the PDF file.</a></p> </object> 
+```
+
+Next, to show where Frontier may have received prior federal funds, data were collected from the [Connect America Fund Broadband Map](https://data.usac.org/publicreports/caf-map/?filtervalues=14O41TST1F). This map displays deployment data (and more) for nearly a dozen infrastructure programs supported by the Universal Services Fund, all at the location level.
+
+## Finding
+
+Many of the locations in the proposal from Frontier were indeed included in a prior Frontier project with funds from the Connect America Fund Auction. Watch this [brief loom](https://www.loom.com/share/1d2ac1fc15dc4f2091370aae11f3187d) to see more detail.

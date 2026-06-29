@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "The Download on Data",
     "section": "",
-    "text": "Series\n\nspeed-test-data\nThis series of posts are focused on learning about speed tests and the data they create.\n\n\n\nAll Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUpper C=Band::Tribal Priority Window\n\n\n\ndigital map\n\nTribal areas\n\nspectrum\n\n\n\n\n\n\n\n\n\nJun 25, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe Grocery Map\n\n\n\ndashboard\n\ninteractive map\n\ncongressional district\n\nAGOL\n\ngroceries\n\nfood deserts\n\n\n\n\n\n\n\n\n\nJun 11, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nA peak into community composting\n\n\n\ncompost\n\nstatistics\n\nnon-normal distribution\n\nbox plot\n\nhistogram\n\n\n\n\n\n\n\n\n\nJun 5, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nBad Actors in Broadband\n\n\n\nstatic map\n\nRDOF\n\nLTD\n\n\n\n\n\n\n\n\n\nMay 29, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe United State(s) of Broadband Map\n\n\n\nstatic map\n\ninteractive\n\nmapbox\n\nstate map\n\n\n\n\n\n\n\n\n\nMay 22, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWhich states have preemption laws that limit community networks?\n\n\n\nstatic map\n\npreemption\n\ncommunity networks\n\n\n\n\n\n\n\n\n\nMay 14, 2026\n\n\nChristine Parker\n\n\n\n\n\nNo matching items"
+    "text": "Series\n\nspeed-test-data\nThis series of posts are focused on learning about speed tests and the data they create.\n\n\n\nAll Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nISP Proposes to Take More Taxpayer Money\n\n\n\nstatic map\n\nFrontier\n\nCPUC\n\ngeoreference\n\n\n\n\n\n\n\n\n\nJun 29, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nUpper C-Band::Tribal Priority Window\n\n\n\ndigital map\n\nTribal areas\n\nspectrum\n\nAGOL\n\n\n\n\n\n\n\n\n\nJun 25, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe Grocery Map\n\n\n\ndashboard\n\ninteractive map\n\ncongressional district\n\nAGOL\n\ngroceries\n\nfood deserts\n\n\n\n\n\n\n\n\n\nJun 11, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nA peak into community composting\n\n\n\ncompost\n\nstatistics\n\nnon-normal distribution\n\nbox plot\n\nhistogram\n\n\n\n\n\n\n\n\n\nJun 5, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nBad Actors in Broadband\n\n\n\nstatic map\n\nRDOF\n\nLTD\n\n\n\n\n\n\n\n\n\nMay 29, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe United State(s) of Broadband Map\n\n\n\nstatic map\n\ninteractive\n\nmapbox\n\nstate map\n\n\n\n\n\n\n\n\n\nMay 22, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWhich states have preemption laws that limit community networks?\n\n\n\nstatic map\n\npreemption\n\ncommunity networks\n\n\n\n\n\n\n\n\n\nMay 14, 2026\n\n\nChristine Parker\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/what-is-a-speed-test/index.html",
@@ -450,43 +450,78 @@
   {
     "objectID": "posts/TPW/index.html",
     "href": "posts/TPW/index.html",
-    "title": "Upper C=Band::Tribal Priority Window",
+    "title": "Upper C-Band::Tribal Priority Window",
     "section": "",
-    "text": "A map that illustrates areas that would be included in a federal spectrum auction."
+    "text": "A map that illustrates areas that would be included in a federal spectrum auction.\n\n\nThe layers illustrating differences between the proposed and restrictive definitions of eligibility are based on the calculation of population within Tribal areas within a given PEA (for each definition of Tribal eligibility)."
   },
   {
     "objectID": "posts/TPW/index.html#pattern",
     "href": "posts/TPW/index.html#pattern",
-    "title": "Upper C=Band::Tribal Priority Window",
+    "title": "Upper C-Band::Tribal Priority Window",
     "section": "",
-    "text": "A map that illustrates areas that would be included in a federal spectrum auction."
+    "text": "A map that illustrates areas that would be included in a federal spectrum auction.\n\n\nThe layers illustrating differences between the proposed and restrictive definitions of eligibility are based on the calculation of population within Tribal areas within a given PEA (for each definition of Tribal eligibility)."
   },
   {
     "objectID": "posts/TPW/index.html#request",
     "href": "posts/TPW/index.html#request",
-    "title": "Upper C=Band::Tribal Priority Window",
+    "title": "Upper C-Band::Tribal Priority Window",
     "section": "Request",
     "text": "Request\nA map that shows Tribal areas that may be included in a Federal Communication Commission (FCC) auction of upper c-band spectrum. It also needed to show Tribal areas that would be eligible based on a prior definition of eligibility for a Tribal priority window and Tribal areas that would be eligible based on a more expansive definition of eligibility. The overall goal of the map was to demonstrate that the more expansive definition of Tribal eligibility would enable more Tribes to participate and/or expand where Tribes could participate, but is a minor change to make."
   },
   {
     "objectID": "posts/TPW/index.html#data-used",
     "href": "posts/TPW/index.html#data-used",
-    "title": "Upper C=Band::Tribal Priority Window",
+    "title": "Upper C-Band::Tribal Priority Window",
     "section": "Data Used",
-    "text": "Data Used\n\n\nPartial Economic Areas: subdivisions of EAs based on the Cellular Market Area1 boundaries; they are smaller than EAs2 and they separate rural from urban markets to a greater degree than EAs3. Not all PEAs shown in this map had spectrum available to be licensed in the auction.\n\n\n\n\n\n\n\n\n\nMap of partial economic area boundaries across the United States.\n\n\n\n\nRural Tribal Window Applications (Pending and Accepted for Filing) - More specifically, the layer Eligible Tribal Lands was used to illustrate the more restrictive definition of Tribal eligibility.\nThe American Indian, Alaska Native, and Native Hawaiin Areas geography was used to illustrate the more expansive definition of Tribal eligibility. This layer was filter to remove areas of CLASSFP types ‘D44’ and ‘D95’."
+    "text": "Data Used\n\n\nPartial Economic Areas: subdivisions of EAs based on the Cellular Market Area1 boundaries; they are smaller than EAs2 and they separate rural from urban markets to a greater degree than EAs3. Not all PEAs shown in this map had spectrum available to be licensed in the auction.\n\n\n\n\n\n\n\n\n\nMap of partial economic area boundaries across the United States.\n\n\n\n\nRural Tribal Window Applications (Pending and Accepted for Filing) - More specifically, the layer Eligible Tribal Lands was used to illustrate the more restrictive definition of Tribal eligibility.\nThe American Indian, Alaska Native, and Native Hawaiin Areas geography was used to illustrate the more expansive definition of Tribal eligibility. This layer was filtered to remove areas of CLASSFP types ‘D44’ and ‘D95’."
   },
   {
     "objectID": "posts/TPW/index.html#finding",
     "href": "posts/TPW/index.html#finding",
-    "title": "Upper C=Band::Tribal Priority Window",
+    "title": "Upper C-Band::Tribal Priority Window",
     "section": "Finding",
     "text": "Finding\nThe difference (measured in population) between the proposed geographic eligibility for Tribes vs. the more restrictive definition is pretty minimal (&lt;1%)."
   },
   {
     "objectID": "posts/TPW/index.html#footnotes",
     "href": "posts/TPW/index.html#footnotes",
-    "title": "Upper C=Band::Tribal Priority Window",
+    "title": "Upper C-Band::Tribal Priority Window",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nCMAs are standard geographic areas used for licensing cellular systems; they consist of Metropolitan Statistical Areas (MSAs) (defined by OMB) and Rural Service Areas (RSAs) (defined by the FCC).↩︎\nAs defined by the Bureau of Economic Analysis, EAs are “one or more economic nodes – metropolitan areas or similar areas that serve as centers of economic activity – and the surrounding counties that are economically related to the nodes”. EAs can be aggregated to form larger areas, such as Major Economic Areas (MEAs) and Regional Economic Area Groupings (REAGs).↩︎\nDefinitions of PEA, EA, and CMA from this page.↩︎\nLegal state recognized American Indian area.↩︎\nStatistical American Indian area defined for a state-recognized tribe that does not have a reservation or off-reservation trust land, specifically a state-designated tribal statistical area.↩︎"
+  },
+  {
+    "objectID": "posts/frontier_cpuc/index.html",
+    "href": "posts/frontier_cpuc/index.html",
+    "title": "ISP Proposes to Take More Taxpayer Money",
+    "section": "",
+    "text": "Map of where an Internet service provider received funds to build infrastructure.\n\n\n\n\n\nFigure 1. Locations where Frontier requested funds from the California Public Utilities Commission to build fiber Internet infrastructure where they recently completed building out copper infrastructure using funds from the Connect America Fund Auction."
+  },
+  {
+    "objectID": "posts/frontier_cpuc/index.html#pattern",
+    "href": "posts/frontier_cpuc/index.html#pattern",
+    "title": "ISP Proposes to Take More Taxpayer Money",
+    "section": "",
+    "text": "Map of where an Internet service provider received funds to build infrastructure.\n\n\n\n\n\nFigure 1. Locations where Frontier requested funds from the California Public Utilities Commission to build fiber Internet infrastructure where they recently completed building out copper infrastructure using funds from the Connect America Fund Auction."
+  },
+  {
+    "objectID": "posts/frontier_cpuc/index.html#request",
+    "href": "posts/frontier_cpuc/index.html#request",
+    "title": "ISP Proposes to Take More Taxpayer Money",
+    "section": "Request",
+    "text": "Request\n\n\nThe California Public Utilities Commission (CPUC) received several requests from Frontier to provide funding for building fiber infrastructure. The ask here was to determine if the request in Los Angeles County overlapped with any prior public funding that Frontier received."
+  },
+  {
+    "objectID": "posts/frontier_cpuc/index.html#data-used",
+    "href": "posts/frontier_cpuc/index.html#data-used",
+    "title": "ISP Proposes to Take More Taxpayer Money",
+    "section": "Data Used",
+    "text": "Data Used\nThe original map of proposed locations was provided as an image, as part of the proposal request. See last two pages in the pdf below. No spatial data were included with the request, so the map of locations included in the request was georeferenced.\n     It appears you don't have a PDF plugin for this browser.     No biggie... you can click here to     download the PDF file.  \nNext, to show where Frontier may have received prior federal funds, data were collected from the Connect America Fund map."
+  },
+  {
+    "objectID": "posts/frontier_cpuc/index.html#finding",
+    "href": "posts/frontier_cpuc/index.html#finding",
+    "title": "ISP Proposes to Take More Taxpayer Money",
+    "section": "Finding",
+    "text": "Finding\nUltimately, LTD defaulted in all 15 states where it won bids to deploy Internet access in rural areas. These areas included 528,088 locations (estimated by FCC), and over $1.3M in funds that could have gone to providers that were genuinely interested and able to get folks connected. LTD was not the only provider to default on its bids, and certainly not the worst. Space Exploration Technologies Corp. (otherwise known as Starlink) defaulted on 1.5M locations, amounting to $2.2M, across 35 states. If you’re interested, you can read more here about how this problem continues to prevent folks from getting connected."
   }
 ]
