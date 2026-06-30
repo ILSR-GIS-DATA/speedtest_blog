@@ -3,7 +3,7 @@ title: "Upper C-Band::Tribal Priority Window"
 author: "Christine Parker"
 date: "2026-06-25"
 date-modified: "2026-06-30"
-categories: [digital map, Tribal areas, spectrum, AGOL]
+categories: [digital map, Tribal areas, spectrum, AGOL, statistics]
 image: "tpw.png"
 ---
 
