@@ -3,7 +3,7 @@ title: "ISP Proposes to Take More Taxpayer Money"
 author: "Christine Parker"
 date: "2026-06-29"
 date-modified: ""
-categories: [static map, Frontier, CPUC, georeference]
+categories: [static map, Frontier, CPUC, georeference, federal funds]
 image: "Frontier_AntelopeValley.png"
 ---
 
