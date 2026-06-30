@@ -41,6 +41,6 @@ Food desert data from from [USDA's Food Access Research Atlas](https://www.ers.u
 
 Food accessibility is a widespread issue in the United States. You can read a more about the spread of food deserts and concentration of power in the grocery market [here](https://ilsr.org/wp-content/uploads/2026/01/ILSRGroceryConsolidationIssueBrief.pdf).
 
-`<iframe width="100%" height="100%" allow="local-network-access; geolocation" title="The Grocery Map" src="https://www.arcgis.com/apps/dashboards/34739ba6f3cf480cabf8eb0698c9d8a4"`{=html}
+`<iframe width="1200" height="800" allow="local-network-access; geolocation" title="The Grocery Map" src="https://www.arcgis.com/apps/dashboards/34739ba6f3cf480cabf8eb0698c9d8a4"`{=html}
 
 </iframe>
