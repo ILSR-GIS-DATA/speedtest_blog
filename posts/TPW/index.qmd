@@ -2,7 +2,7 @@
 title: "Upper C-Band::Tribal Priority Window"
 author: "Christine Parker"
 date: "2026-06-25"
-date-modified: ""
+date-modified: "2026-06-30"
 categories: [digital map, Tribal areas, spectrum, AGOL]
 image: "tpw.png"
 ---
@@ -15,7 +15,7 @@ A map that illustrates areas that would be included in a federal spectrum auctio
 
 </iframe>
 
-The layers illustrating differences between the proposed and restrictive definitions of eligibility are based on the calculation of population within Tribal areas within a given PEA (for each definition of Tribal eligibility).
+The layers illustrating differences between the proposed and restrictive definitions of eligibility are based on the calculation of population within Tribal areas within a given Partial Economic Area (PEA; for each definition of Tribal eligibility). Shown in blue or yellow (dashed boundary lines) are the areas in which the percent of population within a Tribal area of that PEA differed by more than 5%.
 
 ## Request
 
@@ -39,7 +39,7 @@ A map that shows Tribal areas that may be included in a Federal Communication Co
 
 [^3]: Definitions of PEA, EA, and CMA from [this page.](https://www.commlawblog.com/2013/12/articles/broadcast/incentive-auction-update-add-pea-to-the-alphabet-soup-options-for-the-600-mhz-band/)
 
-[Rural Tribal Window Applications (Pending and Accepted for Filing)](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=b51c97987df5452da4a2b37ec6c28d09) - More specifically, the layer [Eligible Tribal Lands](https://services.arcgis.com/YnOQrIGdN9JGtBh4/ArcGIS/rest/services/eligible_tribal_lands/FeatureServer/0) was used to illustrate the more restrictive definition of Tribal eligibility.
+The [Rural Tribal Window Applications (Pending and Accepted for Filing)](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=b51c97987df5452da4a2b37ec6c28d09) map from the FCC was used to show the more restrictive definition of eligible Tribal lands. More specifically, the layer [Eligible Tribal Lands](https://services.arcgis.com/YnOQrIGdN9JGtBh4/ArcGIS/rest/services/eligible_tribal_lands/FeatureServer/0) was used.
 
 The [American Indian, Alaska Native, and Native Hawaiin Areas geography](https://www.arcgis.com/home/item.html?id=70c973c7e48949f9845e320f3b79a1d7) was used to illustrate the more expansive definition of Tribal eligibility. This layer was filtered to remove areas of CLASSFP types 'D4[^4]' and 'D9[^5]'.
 
