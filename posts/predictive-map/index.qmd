@@ -1,8 +1,8 @@
 ---
 title: "The Predictive Map"
 author: "Christine Parker"
-date: "2026-07-02"
-date-modified: "2026-07-10"
+date: "2026-07-10"
+date-modified: ""
 categories: [static map, federal funds, cooperative, municipality, infrastructure, fiber]
 image: "PredictiveMap_D23.png"
 ---
