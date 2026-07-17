@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "The Download on Data",
     "section": "",
-    "text": "Series\n\nspeed-test-data\nThis series of posts are focused on learning about speed tests and the data they create.\n\n\n\nAll Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nISP Proposes to Take More Taxpayer Money\n\n\n\nstatic map\n\nFrontier\n\nCPUC\n\ngeoreference\n\n\n\n\n\n\n\n\n\nJun 29, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nUpper C-Band::Tribal Priority Window\n\n\n\ndigital map\n\nTribal areas\n\nspectrum\n\nAGOL\n\n\n\n\n\n\n\n\n\nJun 25, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe Grocery Map\n\n\n\ndashboard\n\ninteractive map\n\ncongressional district\n\nAGOL\n\ngroceries\n\nfood deserts\n\n\n\n\n\n\n\n\n\nJun 11, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nA peak into community composting\n\n\n\ncompost\n\nstatistics\n\nnon-normal distribution\n\nbox plot\n\nhistogram\n\n\n\n\n\n\n\n\n\nJun 5, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nBad Actors in Broadband\n\n\n\nstatic map\n\nRDOF\n\nLTD\n\n\n\n\n\n\n\n\n\nMay 29, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe United State(s) of Broadband Map\n\n\n\nstatic map\n\ninteractive\n\nmapbox\n\nstate map\n\n\n\n\n\n\n\n\n\nMay 22, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWhich states have preemption laws that limit community networks?\n\n\n\nstatic map\n\npreemption\n\ncommunity networks\n\n\n\n\n\n\n\n\n\nMay 14, 2026\n\n\nChristine Parker\n\n\n\n\n\nNo matching items"
+    "text": "Series\n\nspeed-test-data\nThis series of posts are focused on learning about speed tests and the data they create.\n\n\n\nAll Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Dashboard about the Affordable Connectivity Program\n\n\n\ndashboard\n\ninteractive map\n\ncongressional district\n\nTableau\n\nACP\n\nsubsidy\n\n\n\n\n\n\n\n\n\nJul 17, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe Predictive Map\n\n\n\nstatic map\n\nfederal funds\n\ncooperative\n\nmunicipality\n\ninfrastructure\n\nfiber\n\n\n\n\n\n\n\n\n\nJul 10, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nISP Proposes to Take More Taxpayer Money\n\n\n\nstatic map\n\nFrontier\n\nCPUC\n\ngeoreference\n\nfederal funds\n\n\n\n\n\n\n\n\n\nJun 29, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nUpper C-Band::Tribal Priority Window\n\n\n\ndigital map\n\nTribal areas\n\nspectrum\n\nAGOL\n\nstatistics\n\n\n\n\n\n\n\n\n\nJun 25, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe Grocery Map\n\n\n\ndashboard\n\ninteractive map\n\ncongressional district\n\nAGOL\n\ngroceries\n\nfood deserts\n\n\n\n\n\n\n\n\n\nJun 11, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nA peak into community composting\n\n\n\ncompost\n\nstatistics\n\nnon-normal distribution\n\nbox plot\n\nhistogram\n\n\n\n\n\n\n\n\n\nJun 5, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nBad Actors in Broadband\n\n\n\nstatic map\n\nRDOF\n\nLTD\n\nfederal funds\n\n\n\n\n\n\n\n\n\nMay 29, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nThe United State(s) of Broadband Map\n\n\n\nstatic map\n\ninteractive\n\nmapbox\n\nstate map\n\n\n\n\n\n\n\n\n\nMay 22, 2026\n\n\nChristine Parker\n\n\n\n\n\n\n\n\n\n\n\n\nWhich states have preemption laws that limit community networks?\n\n\n\nstatic map\n\npreemption\n\ncommunity networks\n\n\n\n\n\n\n\n\n\nMay 14, 2026\n\n\nChristine Parker\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/what-is-a-speed-test/index.html",
@@ -452,14 +452,14 @@
     "href": "posts/TPW/index.html",
     "title": "Upper C-Band::Tribal Priority Window",
     "section": "",
-    "text": "A map that illustrates areas that would be included in a federal spectrum auction.\n\n\nThe layers illustrating differences between the proposed and restrictive definitions of eligibility are based on the calculation of population within Tribal areas within a given PEA (for each definition of Tribal eligibility)."
+    "text": "A map that illustrates areas that would be included in a federal spectrum auction.\n\n\nThe layers illustrating differences between the proposed and restrictive definitions of eligibility are based on the calculation of population within Tribal areas within a given Partial Economic Area (PEA; for each definition of Tribal eligibility). Shown in blue or yellow (dashed boundary lines) are the areas in which the percent of population within a Tribal area of that PEA differed by more than 5%."
   },
   {
     "objectID": "posts/TPW/index.html#pattern",
     "href": "posts/TPW/index.html#pattern",
     "title": "Upper C-Band::Tribal Priority Window",
     "section": "",
-    "text": "A map that illustrates areas that would be included in a federal spectrum auction.\n\n\nThe layers illustrating differences between the proposed and restrictive definitions of eligibility are based on the calculation of population within Tribal areas within a given PEA (for each definition of Tribal eligibility)."
+    "text": "A map that illustrates areas that would be included in a federal spectrum auction.\n\n\nThe layers illustrating differences between the proposed and restrictive definitions of eligibility are based on the calculation of population within Tribal areas within a given Partial Economic Area (PEA; for each definition of Tribal eligibility). Shown in blue or yellow (dashed boundary lines) are the areas in which the percent of population within a Tribal area of that PEA differed by more than 5%."
   },
   {
     "objectID": "posts/TPW/index.html#request",
@@ -473,7 +473,7 @@
     "href": "posts/TPW/index.html#data-used",
     "title": "Upper C-Band::Tribal Priority Window",
     "section": "Data Used",
-    "text": "Data Used\n\n\nPartial Economic Areas: subdivisions of EAs based on the Cellular Market Area1 boundaries; they are smaller than EAs2 and they separate rural from urban markets to a greater degree than EAs3. Not all PEAs shown in this map had spectrum available to be licensed in the auction.\n\n\n\n\n\n\n\n\n\nMap of partial economic area boundaries across the United States.\n\n\n\n\nRural Tribal Window Applications (Pending and Accepted for Filing) - More specifically, the layer Eligible Tribal Lands was used to illustrate the more restrictive definition of Tribal eligibility.\nThe American Indian, Alaska Native, and Native Hawaiin Areas geography was used to illustrate the more expansive definition of Tribal eligibility. This layer was filtered to remove areas of CLASSFP types ‘D44’ and ‘D95’."
+    "text": "Data Used\n\n\nPartial Economic Areas: subdivisions of EAs based on the Cellular Market Area1 boundaries; they are smaller than EAs2 and they separate rural from urban markets to a greater degree than EAs3. Not all PEAs shown in this map had spectrum available to be licensed in the auction.\n\n\n\n\n\n\n\n\n\nMap of partial economic area boundaries across the United States.\n\n\n\n\nThe Rural Tribal Window Applications (Pending and Accepted for Filing) map from the FCC was used to show the more restrictive definition of eligible Tribal lands. More specifically, the layer Eligible Tribal Lands was used.\nThe American Indian, Alaska Native, and Native Hawaiin Areas geography was used to illustrate the more expansive definition of Tribal eligibility. This layer was filtered to remove areas of CLASSFP types ‘D44’ and ‘D95’."
   },
   {
     "objectID": "posts/TPW/index.html#finding",
@@ -515,13 +515,97 @@
     "href": "posts/frontier_cpuc/index.html#data-used",
     "title": "ISP Proposes to Take More Taxpayer Money",
     "section": "Data Used",
-    "text": "Data Used\nThe original map of proposed locations was provided as an image, as part of the proposal request. See last two pages in the pdf below. No spatial data were included with the request, so the map of locations included in the request was georeferenced.\n     It appears you don't have a PDF plugin for this browser.     No biggie... you can click here to     download the PDF file.  \nNext, to show where Frontier may have received prior federal funds, data were collected from the Connect America Fund map."
+    "text": "Data Used\nThe original map of proposed locations was provided as an image, as part of the proposal request. See last two pages in the pdf below. No spatial data were included with the request, so the map of locations included in the request was georeferenced.\n     It appears you don't have a PDF plugin for this browser.     No biggie... you can click here to     download the PDF file.  \nNext, to show where Frontier may have received prior federal funds, data were collected from the Connect America Fund Broadband Map. This map displays deployment data (and more) for nearly a dozen infrastructure programs supported by the Universal Services Fund, all at the location level."
   },
   {
     "objectID": "posts/frontier_cpuc/index.html#finding",
     "href": "posts/frontier_cpuc/index.html#finding",
     "title": "ISP Proposes to Take More Taxpayer Money",
     "section": "Finding",
-    "text": "Finding\nUltimately, LTD defaulted in all 15 states where it won bids to deploy Internet access in rural areas. These areas included 528,088 locations (estimated by FCC), and over $1.3M in funds that could have gone to providers that were genuinely interested and able to get folks connected. LTD was not the only provider to default on its bids, and certainly not the worst. Space Exploration Technologies Corp. (otherwise known as Starlink) defaulted on 1.5M locations, amounting to $2.2M, across 35 states. If you’re interested, you can read more here about how this problem continues to prevent folks from getting connected."
+    "text": "Finding\nMany of the locations in the proposal from Frontier were indeed included in a prior Frontier project with funds from the Connect America Fund Auction. Watch this brief loom to see more detail."
+  },
+  {
+    "objectID": "posts/acp-dashboard/index.html",
+    "href": "posts/acp-dashboard/index.html",
+    "title": "A Dashboard about the Affordable Connectivity Program",
+    "section": "",
+    "text": "Interactive dashboard that displays data about enrollment and expenditures, across multiple geography types, for a federal subsidy program.\n\n\n\n\n\n\n\n\n\nThis dashboard displays enrollment and expenditure data for the FCC’s Affordable Connectivity Program. The data are shown in the context of state, congressional district, and zip code. All enrollment rates represent our best estimates based on the definition of the eligible population."
+  },
+  {
+    "objectID": "posts/acp-dashboard/index.html#pattern",
+    "href": "posts/acp-dashboard/index.html#pattern",
+    "title": "A Dashboard about the Affordable Connectivity Program",
+    "section": "",
+    "text": "Interactive dashboard that displays data about enrollment and expenditures, across multiple geography types, for a federal subsidy program.\n\n\n\n\n\n\n\n\n\nThis dashboard displays enrollment and expenditure data for the FCC’s Affordable Connectivity Program. The data are shown in the context of state, congressional district, and zip code. All enrollment rates represent our best estimates based on the definition of the eligible population."
+  },
+  {
+    "objectID": "posts/acp-dashboard/index.html#request",
+    "href": "posts/acp-dashboard/index.html#request",
+    "title": "A Dashboard about the Affordable Connectivity Program",
+    "section": "Request",
+    "text": "Request\nA dashboard that shows Affordable Connectivity Program enrollment rates across the country, and some different statistics about how much money is being spent, how much is left, and when we expect the program funds to run out."
+  },
+  {
+    "objectID": "posts/acp-dashboard/index.html#data-used",
+    "href": "posts/acp-dashboard/index.html#data-used",
+    "title": "A Dashboard about the Affordable Connectivity Program",
+    "section": "Data Used",
+    "text": "Data Used\n\n\nAll data about enrollment and reimbursement claims (expenditures) from ISPs were collected regularly from the ACP Enrollment and Claims Tracker, managed and hosted by the Universal Service Administrative Co. This webpage included an ongoing list of how much of the fund had been spent and how many were enrolled per state, along with various spreadsheets describing enrollment and reimbursement claims. These files were organized by geography type (state, county, and zip code), but some of these files were updated only monthly, while others were updated more frequently. This webpage also included general descriptions of household eligibility for ACP, and we used these to create estimates of household eligibility at the state, congressional district, and zip code level. The data used to calculate these estimates came from the Census Bureau’s 5-year American Community Survey data tables, along with the U.S. Federal Poverty Guidelines."
+  },
+  {
+    "objectID": "posts/acp-dashboard/index.html#finding",
+    "href": "posts/acp-dashboard/index.html#finding",
+    "title": "A Dashboard about the Affordable Connectivity Program",
+    "section": "Finding",
+    "text": "Finding"
+  },
+  {
+    "objectID": "posts/predictive-map/index.html",
+    "href": "posts/predictive-map/index.html",
+    "title": "The Predictive Map",
+    "section": "",
+    "text": "Map of community-owned fiber infrastructure - where it is, will be, and could be.\n\n\n\n\n\n\n\n\n\nFigure 1. Map of community owned fiber networks - where they are, will be, and could be across the United States."
+  },
+  {
+    "objectID": "posts/predictive-map/index.html#pattern",
+    "href": "posts/predictive-map/index.html#pattern",
+    "title": "The Predictive Map",
+    "section": "",
+    "text": "Map of community-owned fiber infrastructure - where it is, will be, and could be.\n\n\n\n\n\n\n\n\n\nFigure 1. Map of community owned fiber networks - where they are, will be, and could be across the United States."
+  },
+  {
+    "objectID": "posts/predictive-map/index.html#request",
+    "href": "posts/predictive-map/index.html#request",
+    "title": "The Predictive Map",
+    "section": "Request",
+    "text": "Request\n\n\nThe aim of this map is threefold: 1) show how widespread community-owned fiber networks already are; 2) show where current fiber networks will be expanding; 3) show where current fiber networks could be developed in the future.\n\n\n\n\n\nFigure 2. Growth of community-owned fiber networks over time."
+  },
+  {
+    "objectID": "posts/predictive-map/index.html#data-used",
+    "href": "posts/predictive-map/index.html#data-used",
+    "title": "The Predictive Map",
+    "section": "Data Used",
+    "text": "Data Used\nThese maps are derived primarily from the FCC’s Broadband Data Collection (BDC) and Broadband Funding Map, and ILSR’s internal database of community owned networks. Other datasets used include Electric Retail Service Areas (previously hosted publicly by HIFLD); FCC Study Area Boundaries; CPUC FFA Awards data; and data from the NYS MIPS Dashboard. The US Census Blocks National Geodatabase was used to display the focal areas in the map."
+  },
+  {
+    "objectID": "posts/predictive-map/index.html#method",
+    "href": "posts/predictive-map/index.html#method",
+    "title": "The Predictive Map",
+    "section": "Method",
+    "text": "Method\nILSR’s community network list is updated at least once a year by researching new fiber providers that appear in the BDC. The provider id number and frn1 were used to select all the locations claimed by those providers from the BDC. The BDC data are then aggregated to unique census blocks where each provider offers service, and those blocks represent the “built” layer of community fiber networks in the map. The funded layer is constructed in a similar fashion, but uses data from the Broadband Funding Map and ultimately shows where community networks have received federal funding to build/expand fiber networks. Data from New York State and California were also added to the funding layer, as the programs specifically supported the development of community networks. The final layer of the map represents where we expect to see future expansion of fiber networks. Unfortunately, the electric retail service areas and FCC study area boundaries are not so easily joined and filtered. A step wise process of fuzzy matching on provider names and manual selection occurs to create this final layer."
+  },
+  {
+    "objectID": "posts/predictive-map/index.html#finding",
+    "href": "posts/predictive-map/index.html#finding",
+    "title": "The Predictive Map",
+    "section": "Finding",
+    "text": "Finding\nThe development and growth of community fiber networks over the past decade is huge, and shows no signs of slowing. The availability of these networks provides many communities with affordable and reliable Internet service. In some areas passed over by monopoly ISP’s, these networks may provide the only option for residents. In other areas, these networks may provide a new option for residents, where previously the option(s) may have been unreliable and/or unaffordable."
+  },
+  {
+    "objectID": "posts/predictive-map/index.html#footnotes",
+    "href": "posts/predictive-map/index.html#footnotes",
+    "title": "The Predictive Map",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nAn FRN, or FCC registration number, is a 10-digit number that is assigned to a business or individual registering with the FCC. This unique FRN is used to identify the registrant’s business dealings with the FCC.↩︎"
   }
 ]

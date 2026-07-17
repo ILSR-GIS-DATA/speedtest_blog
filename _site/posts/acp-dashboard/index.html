@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Christine Parker">
-<meta name="dcterms.date" content="2026-06-29">
+<meta name="dcterms.date" content="2026-07-17">
 
-<title>ISP Proposes to Take More Taxpayer Money – Download on Data</title>
+<title>A Dashboard about the Affordable Connectivity Program – Download on Data</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -121,13 +121,14 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">ISP Proposes to Take More Taxpayer Money</h1>
+      <h1 class="title">A Dashboard about the Affordable Connectivity Program</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">static map</div>
-                <div class="quarto-category">Frontier</div>
-                <div class="quarto-category">CPUC</div>
-                <div class="quarto-category">georeference</div>
-                <div class="quarto-category">federal funds</div>
+                <div class="quarto-category">dashboard</div>
+                <div class="quarto-category">interactive map</div>
+                <div class="quarto-category">congressional district</div>
+                <div class="quarto-category">Tableau</div>
+                <div class="quarto-category">ACP</div>
+                <div class="quarto-category">subsidy</div>
               </div>
                   </div>
   </div>
@@ -145,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">June 29, 2026</p>
+        <p class="date">July 17, 2026</p>
       </div>
     </div>
     
@@ -168,13 +169,17 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="pattern">Pattern</h2>
 <div class="grid">
 <div class="g-col-6">
-<p>Map of where an Internet service provider received funds to build infrastructure.</p>
+<p>Interactive dashboard that displays data about enrollment and expenditures, across multiple geography types, for a federal subsidy program.</p>
 </div>
 <div class="g-col-6">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="FrontierCAF_AntelopeValley.png" class="img-fluid figure-img" alt="A static map of locations in the Antelope Valley area of Los Angeles County, California where many locations where funding is requested correspond to locations that were also previously funded for infrastructure development to Frontier"></p>
-<figcaption>Figure 1. Locations where Frontier requested funds from the California Public Utilities Commission to build fiber Internet infrastructure where they recently completed building out copper infrastructure using funds from the Connect America Fund Auction.</figcaption>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://acpdashboard.com/"><img src="acp_dashboard_apr24.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="This dashboard displays enrollment and expenditure data across states, congressional districts, and zip codes in interactive maps. It also includes several single-statistic elements, including: 23 of 53 million households were enrolled in the program, of those that were eligible; 44 percent of households were eligible, nationwide; a regression model displayed in a line chart shows that we predicted the program funds would be depleted by by late May-early June of 2024; as of April 2024, $715 million dollars were spent each month; 55.9% used the subsidy for mobile Internet, 43.2% used the subsidy for fixed Internet, and .9% used the subsidy for wireless or satellite-based Internet."></a></p>
+</figure>
+</div>
+<figcaption>This dashboard displays enrollment and expenditure data for the FCC’s Affordable Connectivity Program. The data are shown in the context of state, congressional district, and zip code. All enrollment rates represent our best estimates based on the definition of the eligible population.</figcaption>
 </figure>
 </div>
 </div>
@@ -182,21 +187,39 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="request" class="level2">
 <h2 class="anchored" data-anchor-id="request">Request</h2>
-<div class="grid">
-<div class="g-col-6">
-<p>The California Public Utilities Commission (CPUC) received several requests from <a href="https://frontier.com/">Frontier</a> to provide funding for building fiber infrastructure. The ask here was to determine if the request in Los Angeles County overlapped with any prior public funding that Frontier received.</p>
-</div>
-</div>
+<p>A dashboard that shows <a href="https://www.usac.org/about/affordable-connectivity-program/">Affordable Connectivity Program</a> enrollment rates across the country, and some different statistics about how much money is being spent, how much is left, and when we expect the program funds to run out.</p>
 </section>
 <section id="data-used" class="level2">
 <h2 class="anchored" data-anchor-id="data-used">Data Used</h2>
-<p>The original map of proposed locations was provided as an image, as part of the proposal request. See last two pages in the pdf below. No spatial data were included with the request, so the map of locations included in the request was georeferenced.</p>
-<object data="Item 01_Project Summary_Frontier_Los Angeles County.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">     <p>It appears you don't have a PDF plugin for this browser.     No biggie... you can <a href="Item 01_Project Summary_Frontier_Los Angeles County.pdf">click here to     download the PDF file.</a></p> </object> 
-<p>Next, to show where Frontier may have received prior federal funds, data were collected from the <a href="https://data.usac.org/publicreports/caf-map/?filtervalues=14O41TST1F">Connect America Fund Broadband Map</a>. This map displays deployment data (and more) for nearly a dozen infrastructure programs supported by the Universal Services Fund, all at the location level.</p>
+<div class="grid">
+<div class="g-col-6">
+<p>All data about enrollment and reimbursement claims (expenditures) from ISPs were collected regularly from the <a href="https://www.usac.org/about/affordable-connectivity-program/acp-enrollment-and-claims-tracker/">ACP Enrollment and Claims Tracker</a>, managed and hosted by the <a href="https://www.usac.org/about/">Universal Service Administrative Co.</a> This webpage included an ongoing list of how much of the fund had been spent and how many were enrolled per state, along with various spreadsheets describing enrollment and reimbursement claims. These files were organized by geography type (state, county, and zip code), but some of these files were updated only monthly, while others were updated more frequently. This webpage also included general descriptions of household eligibility for ACP, and we used these to create estimates of household eligibility at the state, congressional district, and zip code level. The data used to calculate these estimates came from the Census Bureau’s 5-year <a href="https://www.census.gov/programs-surveys/acs/about.html">American Community Survey</a> data tables, along with the <a href="https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines">U.S. Federal Poverty Guidelines</a>.</p>
+</div>
+<div class="g-col-6">
+<p><a href="https://github.com/Institute-for-Local-Self-Reliance/Affordable-Connectivity-Program-Analysis/blob/main/README.md"><img src="acs_variables.png" class="img-fluid" alt="Image shows a screenshot of the text, &quot;We used microdata from the American Community Survey (5 yr 2017 - 2021) to estimate eligibility at the state level. The specific variables we used include: POVPIP: Poverty status recode indicating household income at or below the 200% poverty threshold; HINS4: Medicaid, Medical Assistance, or any kind of government-assistance plan for those with low incomes or a disability; FS: Yearly food stamp/Supplemental Nutrition Assistance Program (SNAP) recipiency; PAP: Public assistance income over past 12 months (any amount); SSIP: Supplemental Security Income over past 12 months (any amount)"></a></p>
+</div>
+</div>
 </section>
 <section id="finding" class="level2">
 <h2 class="anchored" data-anchor-id="finding">Finding</h2>
-<p>Many of the locations in the proposal from Frontier were indeed included in a prior Frontier project with funds from the Connect America Fund Auction. Watch this <a href="https://www.loom.com/share/1d2ac1fc15dc4f2091370aae11f3187d">brief loom</a> to see more detail.</p>
+<div id="dashboard-wrapper" style="width: 100%; overflow: hidden; position: relative;">
+  <div id="dashboard-scaler" style="width: 1500px; height: 1700px; transform-origin: top left;">
+    <iframe src="https://acpdashboard.com/" title="The ACP Dashboard" allow="local-network-access; geolocation" width="1500" height="1700" style="border: 0;">
+    </iframe>
+  </div>
+</div>
+
+<script>
+  function scaleDashboard() {
+    const wrapper = document.getElementById('dashboard-wrapper');
+    const scaler = document.getElementById('dashboard-scaler');
+    const scale = wrapper.offsetWidth / 1500;
+    scaler.style.transform = `scale(${scale})`;
+    wrapper.style.height = (1700 * scale) + 'px';
+  }
+  window.addEventListener('resize', scaleDashboard);
+  window.addEventListener('load', scaleDashboard);
+</script>
 
 
 </section>

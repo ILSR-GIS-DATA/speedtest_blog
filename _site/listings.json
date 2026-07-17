@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/acp-dashboard/index.html",
+      "/posts/predictive-map/index.html",
       "/posts/frontier_cpuc/index.html",
       "/posts/TPW/index.html",
       "/posts/grocery-deserts/index.html",

@@ -52,5 +52,11 @@
   },
   "posts/frontier_cpuc/index.qmd": {
     "index.html": "61dd4b60"
+  },
+  "posts/acp-dashboard/index.qmd": {
+    "index.html": "775a40fb"
+  },
+  "posts/predictive-map/index.qmd": {
+    "index.html": "a54437d4"
   }
 }
